@@ -1,0 +1,22 @@
+%%sql
+SELECT DISTINCT R.A, T.D
+FROM R, S, T
+WHERE R.B = S.B AND S.C = T.C AND R.A = 2;
+
+select *
+            from (R natural join ((select B,D                                    
+                                 from S natural join (select * from T where D=3)
+                                  ) natural join
+                                  (select D
+                                  from U
+                                  where E=0)))
+
+x= NJoin(R,NJoin(Project(["B","D"],
+                                 NJoin(S,Select("D",3,T))),
+                  Project(["D"],Select("E",1,U))))
+render_markdown(x)   
+   
+Y = %%sql select * from (R natural join ((select B,D from S natural join (select * from T where D=3)) natural join(select D from U where E=0)));
+y = BaseRelation(Y)
+
+print compare_results(x,y) 

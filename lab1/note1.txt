@@ -1,0 +1,64 @@
+关系模式为nominations(id, year, catId, personId, title, characterName, won)。其中，每一行对应着演员people(id)的一项归类于categories(id)的提名。
+– id为提名表的主键(1, 2, . . . ).
+– won是一个boolean型变量，其值为't'当且仅当该项提名最终通过；否则为'f'
+– characterName是演员在电影(title)中饰演的角色名。
+
+insert into people values(900,'Bryan', 'Cranston')；
+                         (901,'Mark','Rylance'),  
+                        (902,'Tom','Hardy'),   
+                        (903,'Brie','Larson'), 
+                        (904,'Charlotte','Rampling'), 
+                        (905,'Alicia', 'Vikander'), 
+                        (906,'Jennifer Jason', 'Leigh'), 
+                        (907,'Rachel', 'McAdams' );
+insert into nominations values (1649,2016,1,18,'The Revenant','Hugh Glassdouble-dagger',t),
+                                (1650,2016,1,900,'Trumbo','Dalton Trumbo',f),
+                                (1651,2016,1,50,'The Martian','Mark Watney',f),
+                                (1652,2016,1,887,'Steve Jobs' ,'Steve Jobs',f),
+                                (1653,2016,1,891,'The Danish Girl' ,'Lili Elbe',f),
+
+                                (1654,2016,2,901,'Bridge of Spies' ,'Rudolf Abeldouble-dagger',t),
+                                (1655,2016,2,214,'The Big Short', 'Michael Burry',f),
+                                (1656,2016,2,902,'The Revenant','John Fitzgerald',f),
+                                (1657,2016,2,216,'Spotlight','Michael Rezendes',f),
+                                (1658,2016,2,110, 'Creed','Rocky Balboa',f),
+
+                                (1659,2016,3,903,'Room' ,'Joy \'Ma\' Newsomedouble-dagger',t),
+                                (1670,2016,3,455,'Carol' ,'Carol Aird',f),
+                                (1671,2016,3,207,'Joy' ,'Joy Mangano',f),
+                                (1672,2016,3,904,'45 Years' , 'Kate Mercer',f),
+                                (1673,2016,3,660, 'Brooklyn' , 'Eilis Lacey',f),
+
+                                (1674,2016,4,905,'The Danish Girl' , 'Gerda Wegenerdouble-dagger',t),
+                                (1675,2016,4,906,'The Hateful Eight' , 'Daisy Domergue',t),
+                                (1676,2016,4,598,'Carol' , 'Therese Belivet',t),
+                                (1677,2016,4,907,'Spotlight' , 'Sacha Pfeiffer',t),
+                                (1678,2016,4,454,'Steve Jobs' , 'Joanna Hoffman',t);
+
+
+SELECT T3.FIRSTNAME,T3.LASTNAME
+FROM (
+    SELECT PERSONID,FIRSTNAME,LASTNAME,COUNT(*) AS NUM
+    FROM (
+        SELECT T1.PERSONID,T1.FIRSTNAME,T1.LASTNAME
+        FROM (NOMINATIONS JOIN PEOPLE ON NOMINATIONS.PERSONID=PEOPLE.ID)  AS T1
+        WHERE T1.PERSONID NOT IN 
+            (SELECT  PERSONID
+             FROM NOMINATIONS 
+             WHERE WON='T')
+        ) AS T2
+    GROUP BY PERSONID,FIRSTNAME,LASTNAME
+    ) AS T3
+ WHERE T3.NUM= (SELECT MAX(T4.NUM)
+        FROM (
+            SELECT PERSONID,FIRSTNAME,LASTNAME,COUNT(*) AS NUM
+            FROM (
+                SELECT T5.PERSONID,T5.FIRSTNAME,T5.LASTNAME
+                FROM (NOMINATIONS JOIN PEOPLE ON NOMINATIONS.PERSONID=PEOPLE.ID)  AS T5
+                WHERE T5.PERSONID NOT IN 
+                    (SELECT  PERSONID
+                     FROM NOMINATIONS 
+                     WHERE WON='T')
+                ) AS T6
+                GROUP BY  PERSONID,FIRSTNAME,LASTNAME
+                ) AS T4);

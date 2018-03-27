@@ -1,0 +1,1648 @@
+1|2014|1|891|The Theory of Everything|Stephen Hawking|t
+2|2014|1|892|Foxcatcher|John Eleuth®®re du Pont|f
+3|2014|1|879|American Sniper|Chris Kyle|f
+4|2014|1|893|The Imitation Game|Alan Turing|f
+5|2014|1|894|Birdman|Riggan Thomson|f
+6|2014|3|475|Still Alice|Alice Howland|t
+7|2014|3|457|Two Days, One Night|Sandra Bya|f
+8|2014|3|895|The Theory of Everything|Jane Wilde Hawking|f
+9|2014|3|896|Gone Girl|Amy Elliott-Dunne|f
+10|2014|3|465|Wild|Cheryl Strayed|f
+11|2014|2|897|Whiplash|Terence Fletcher|t
+12|2014|2|51|The Judge|Judge Joseph Palmer|f
+13|2014|2|243|Boyhood|Mason Evans, Sr|f
+14|2014|2|49|Birdman|Mike Shiner|f
+15|2014|2|216|The Wolf of Wall Street|Donnie Azoff|f
+16|2014|4|898|Boyhood|Olivia Evans|t
+17|2014|4|508|Wild| Bobbi Grey|f
+18|2014|4|463|The Imitation Game|Joan Clarke|f
+19|2014|4|899|Birdman|Sam Thomson|f
+20|2014|4|450|Into the Woods|The Witch|f
+21|2013|1|883|Dallas Buyers Club|Ron Woodroof|t
+22|2013|1|214|American Hustle|Irving Rosenfeld|f
+23|2013|1|307|Nebraska|Woodrow "Woody" Grant|f
+24|2013|1|18|The Wolf of Wall Street|Jordan Belfort|f
+25|2013|1|884|12 Years a Slave|Solomon Northup|f
+26|2013|3|455|SBlue Jasmine|Jeanette "Jasmine" Francis|t
+27|2013|3|649|American Hustle|Edith Greensly / Sydney Prosser|f
+28|2013|3|446|Gravity|Dr. Ryan Stone|f
+29|2013|3|461|Philomena|Philomena Lee|f
+30|2013|3|450|August: Osage County|Violet Weston|f
+31|2013|2|885|Dallas Buyers Club|DRayon|t
+32|2013|2|886|Captain Phillips|Abduwali Muse|f
+33|2013|2|879|American Hustle|Richard "Richie" DiMaso|f
+34|2013|2|887|12 Years a Slave|Edwin Epps|f
+35|2013|2|874|The Wolf of Wall Street|Donnie Azoff|f
+36|2013|4|888|12 Years a Slave|Ginger|t
+37|2013|4|889|Blue Jasmine| Margaret "Peggy" Dodd|f
+38|2013|4|443|American Hustle|Rosalyn Rosenfeld|f
+39|2013|4|482|August: Osage County|Barbara Weston-Fordham|f
+40|2013|4|890|Nebraska|Kate Grant|f
+41|2012|1|14|Lincoln|Abraham Lincoln|t
+42|2012|1|879|Silver Linings Playbook|Patrick "Pat" Solitano, Jr|f
+43|2012|1|880|Les Mis®¶rables|Jean Valjean|f
+44|2012|1|26|The Master|Freddie Quell|f
+45|2012|1|39|Flight|William "Whip" Whitaker, Sr|f
+46|2012|3|443|Silver Linings Playbook|Tiffany Maxwell|t
+47|2012|3|877|Zero Dark Thirty|Maya|f
+48|2012|3|881|Amour|Anne Laurent|f
+49|2012|3|882|Beasts of the Southern Wild|Hushpuppy|f
+50|2012|3|472|The Impossible|Maria Bennett|f
+51|2012|2|219|Django Unchained|Dr. King Schultz|t
+52|2012|2|124|Argo|Lester Siegel|f
+53|2012|2|70|Silver Linings Playbook|Patrizio "Pat" Solitano, Sr|f
+54|2012|2|23|The Master|Lancaster Dodd|f
+55|2012|2|16|Lincoln|Thaddeus Stevens|f
+56|2012|4|451|Les Mis®¶rables|Fantine|t
+57|2012|4|649|The Master| Margaret "Peggy" Dodd|f
+58|2012|4|528|Lincoln|Mary Todd Lincoln|f
+59|2012|4|488|The Sessions|Cheryl Cohen-Greene|f
+60|2012|4|651|Silver Linings Playbook|Dolores Solitano|f
+61|2011|1|870|The Artist|George Valentin|t
+62|2011|1|871|A Better Life|Carlos Galindo|f
+63|2011|1|6|The Descendants|Matthew "Matt" King|f
+64|2011|1|872|Tinker Tailor Soldier Spy|George Smiley|f
+65|2011|1|12|Moneyball|Billy Beane|f
+66|2011|3|450|The Iron Lady|Margaret Thatcher|t
+67|2011|3|516|Albert Nobbs|Albert Nobbs|f
+68|2011|3|656|The Help|Aibileen Clark|f
+69|2011|3|873|The Girl with the Dragon Tattoo|Lisbeth Salander|f
+70|2011|3|445|My Week with Marilyn|Marilyn Monroe|f
+71|2011|2|217|Beginners|Hal Fields|t
+72|2011|2|76|My Week with Marilyn|Laurence Olivier|f
+73|2011|2|874|Moneyball|Peter Brand|f
+74|2011|2|48|Warrior|Paddy Conlon|f
+75|2011|2|80|Extremely Loud and Incredibly Close|The Renter|f
+76|2011|4|875|The Help|Minny Jackson|t
+77|2011|4|876|The Artist|Peppy Miller|f
+78|2011|4|877|The Help|Celia Foote|f
+79|2011|4|878|Bridesmaids|Megan Price|f
+80|2011|4|483|Albert Nobbs|Hubert Page|f
+81|2010|1|1|Biutiful|Uxbal|f
+82|2010|1|2|True Grit|Rooster Cogburn|f
+83|2010|1|3|The Social Network|Mark Zuckerberg|f
+84|2010|1|4|The King's Speech|King George VI|t
+85|2010|1|5|127 Hours|Aron Ralston|f
+86|2009|1|2|Crazy Heart|Bad Blake|t
+87|2009|1|6|Up in the Air|Ryan Bingham|f
+88|2009|1|4|A Single Man|George|f
+89|2009|1|7|Invictus|Nelson Mandela|f
+90|2009|1|8|The Hurt Locker|Staff Sergeant William James|f
+91|2008|1|9|The Visitor|Walter|f
+92|2008|1|10|Frost/Nixon|Richard Nixon|f
+93|2008|1|11|Milk|Harvey Milk|t
+94|2008|1|12|The Curious Case of Benjamin Button|Benjamin Button|f
+95|2008|1|13|The Wrestler|Randy|f
+96|2007|1|6|Michael Clayton|Michael Clayton|f
+97|2007|1|14|There Will Be Blood|Daniel Plainview|t
+98|2007|1|15|Sweeney Todd The Demon Barber of Fleet Street|Sweeney Todd|f
+99|2007|1|16|In the Valley of Elah|Hank Deerfield|f
+100|2007|1|17|Eastern Promises|Nikolai|f
+101|2006|1|18|Blood Diamond|Danny Archer|f
+102|2006|1|19|Half Nelson|Dan Dunne|f
+103|2006|1|20|Venus|Maurice|f
+104|2006|1|21|The Pursuit of Happyness|Chris Gardner|f
+105|2006|1|22|The Last King of Scotland|Idi Amin|t
+106|2005|1|23|Capote|Truman Capote|t
+107|2005|1|24|Hustle & Flow|DJay|f
+108|2005|1|25|Brokeback Mountain|Ennis Del Mar|f
+109|2005|1|26|Walk the Line|John R. Cash|f
+110|2005|1|27|Good Night, and Good Luck.|Edward R. Murrow|f
+111|2004|1|28|Hotel Rwanda|Paul Rusesabagina|f
+112|2004|1|15|Finding Neverland|Sir James Matthew Barrie|f
+113|2004|1|18|The Aviator|Howard Hughes|f
+114|2004|1|29|Million Dollar Baby|Frankie Dunn|f
+115|2004|1|30|Ray|Ray Charles|t
+116|2003|1|15|Pirates of the Caribbean: The Curse of the Black Pearl|Jack Sparrow|f
+117|2003|1|31|House of Sand and Fog|Behrani|f
+118|2003|1|32|Cold Mountain|Inman|f
+119|2003|1|33|Lost in Translation|Bob Harris|f
+120|2003|1|11|Mystic River|Jimmy Markum|t
+121|2002|1|34|The Pianist|Wladyslaw Szpilman|t
+122|2002|1|35|Adaptation|Charlie Kaufman & Donald Kaufman|f
+123|2002|1|36|The Quiet American|Thomas Fowler|f
+124|2002|1|14|Gangs of New York|Bill 'The Butcher' Cutting|f
+125|2002|1|37|About Schmidt|Warren Schmidt|f
+126|2001|1|38|A Beautiful Mind|John Nash|f
+127|2001|1|11|I Am Sam|Sam Dawson|f
+128|2001|1|21|Ali|Muhammad Ali|f
+129|2001|1|39|Training Day|Alonzo|t
+130|2001|1|40|In the Bedroom|Matt Fowler|f
+131|2000|1|1|Before Night Falls|Reinaldo Arenas|f
+132|2000|1|38|Gladiator|Maximus Decimus Meridius|t
+133|2000|1|41|Cast Away|Chuck Noland|f
+134|2000|1|42|Pollock|Jackson Pollock|f
+135|2000|1|43|Quills|The Marquis de Sade|f
+136|1999|1|38|The Insider|Jeffrey Wigand|f
+137|1999|1|44|The Straight Story|Alvin Straight|f
+138|1999|1|11|Sweet and Lowdown|Emmet Ray|f
+139|1999|1|45|American Beauty|Lester Burnham|t
+140|1999|1|39|The Hurricane|Rubin 'Hurricane' Carter|f
+141|1998|1|46|Life Is Beautiful|Guido|t
+142|1998|1|41|Saving Private Ryan|Captain Miller|f
+143|1998|1|47|Gods and Monsters|James Whale|f
+144|1998|1|48|Affliction|Wade Whitehouse|f
+145|1998|1|49|American History X|Derek|f
+146|1997|1|50|Good Will Hunting|Will Hunting|f
+147|1997|1|51|The Apostle|The Apostle E.F.|f
+148|1997|1|52|Ulee's Gold|Ulee Jackson|f
+149|1997|1|53|Wag the Dog|Stanley Motss|f
+150|1997|1|37|As Good as It Gets|Melvin Udall|t
+151|1996|1|54|Jerry Maguire|Jerry Maguire|f
+152|1996|1|55|The English Patient|Almasy|f
+153|1996|1|56|The People vs. Larry Flynt|Larry Flynt|f
+154|1996|1|43|Shine|David Helfgott|t
+155|1996|1|57|Sling Blade|Karl Childers|f
+156|1995|1|35|Leaving Las Vegas|Ben Sanderson|t
+157|1995|1|58|Mr. Holland's Opus|Glenn Holland|f
+158|1995|1|59|Nixon|Richard Nixon|f
+159|1995|1|11|Dead Man Walking|Matthew Poncelet|f
+160|1995|1|60|The Postman (Il Postino)|Mario|f
+161|1994|1|7|The Shawshank Redemption|Red|f
+162|1994|1|41|Forrest Gump|Forrest Gump|t
+163|1994|1|61|The Madness of King George|King George III|f
+164|1994|1|62|Nobody's Fool|Sully|f
+165|1994|1|63|Pulp Fiction|Vincent Vega|f
+166|1993|1|14|In the Name of the Father|Gerry Conlon|f
+167|1993|1|64|What's Love Got to Do with It|Ike Turner|f
+168|1993|1|41|Philadelphia|Andrew Beckett|t
+169|1993|1|59|The Remains of the Day|Mr. Stevens|f
+170|1993|1|65|Schindler's List|Oskar Schindler|f
+171|1992|1|66|Chaplin|Charles Chaplin|f
+172|1992|1|29|Unforgiven|Bill Munny|f
+173|1992|1|67|Scent of a Woman|Lt. Col. Frank Slade|t
+174|1992|1|68|The Crying Game|Fergus|f
+175|1992|1|39|Malcolm X|Malcolm X|f
+176|1991|1|69|Bugsy|Bugsy Siegel|f
+177|1991|1|70|Cape Fear|Max Cady|f
+178|1991|1|59|The Silence of the Lambs|Dr. Hannibal Lecter|t
+179|1991|1|48|The Prince of Tides|Tom Wingo|f
+180|1991|1|71|The Fisher King|Parry|f
+181|1990|1|72|Dances With Wolves|Lieutenant Dunbar|f
+182|1990|1|70|Awakenings|Leonard Lowe|f
+183|1990|1|73|Cyrano de Bergerac|Cyrano de Bergerac|f
+184|1990|1|74|The Field|Bull McCabe|f
+185|1990|1|75|Reversal of Fortune|Claus Von Bulow|t
+186|1989|1|76|Henry V|Henry V|f
+187|1989|1|54|Born on the Fourth of July|Ron Kovic|f
+188|1989|1|77|My Left Foot|Christy Brown|t
+189|1989|1|7|Driving Miss Daisy|Hoke Colburn|f
+190|1989|1|71|Dead Poets Society|John Keating|f
+191|1988|1|78|Mississippi Burning|Anderson|f
+192|1988|1|41|Big|Josh|f
+193|1988|1|53|Rain Man|Raymond Babbitt|t
+194|1988|1|79|Stand and Deliver|Jaime Escalante|f
+195|1988|1|80|Pelle the Conqueror|Lasse Karlsson|f
+196|1987|1|81|Wall Street|Gordon Gekko|t
+197|1987|1|82|Broadcast News|Tom Grunick|f
+198|1987|1|83|Dark Eyes|Romano|f
+199|1987|1|37|Ironweed|Francis Phelan|f
+200|1987|1|71|Good Morning, Vietnam|Adrian Cronauer|f
+201|1986|1|84|Round Midnight|Dale Turner|f
+202|1986|1|85|Mona Lisa|George|f
+203|1986|1|82|Children of a Lesser God|James|f
+204|1986|1|62|The Color of Money|Eddie Felson|t
+205|1986|1|86|Salvador|Richard Boyle|f
+206|1985|1|87|Witness|John Book|f
+207|1985|1|88|Murphy's Romance|Murphy Jones|f
+208|1985|1|82|Kiss of the Spider Woman|Luis Molina|t
+209|1985|1|37|Prizzi's Honor|Charley Partanna|f
+210|1985|1|89|Runaway Train|Manny|f
+211|1984|1|90|Amadeus|Antonio Salieri|t
+212|1984|1|2|Starman|Starman|f
+213|1984|1|91|Under the Volcano|Geoffrey Firmin|f
+214|1984|1|92|Amadeus|Wolfgang Amadeus Mozart|f
+215|1984|1|93|The Killing Fields|Sydney Schanberg|f
+216|1983|1|36|Educating Rita|Dr. Frank Bryant|f
+217|1983|1|94|Reuben, Reuben|Gowan McGland|f
+218|1983|1|95|The Dresser|Norman|f
+219|1983|1|51|Tender Mercies|Mac Sledge|t
+220|1983|1|91|The Dresser|Sir|f
+221|1982|1|53|Tootsie|Michael Dorsey/Dorothy Michaels|f
+222|1982|1|31|Gandhi|Mahatma Gandhi|t
+223|1982|1|96|Missing|Edmund Horman|f
+224|1982|1|62|The Verdict|Frank Galvin|f
+225|1982|1|20|My Favorite Year|Alan Swann|f
+226|1981|1|69|Reds|John 'Jack' Reed|f
+227|1981|1|97|On Golden Pond|Norman Thayer, Jr.|t
+228|1981|1|98|Atlantic City|Lou|f
+229|1981|1|99|Arthur|Arthur Bach|f
+230|1981|1|62|Absence of Malice|Michael Gallagher|f
+231|1980|1|70|Raging Bull|Jake LaMotta|t
+232|1980|1|51|The Great Santini|Bull Meechum|f
+233|1980|1|100|The Elephant Man|John Merrick|f
+234|1980|1|96|Tribute|Scottie Templeton|f
+235|1980|1|20|The Stunt Man|Eli Cross|f
+236|1979|1|53|Kramer vs. Kramer|Ted Kramer|t
+237|1979|1|96|The China Syndrome|Jack Godell|f
+238|1979|1|67|...And Justice for All|Arthur Kirkland|f
+239|1979|1|101|All That Jazz|Joe Gideon|f
+240|1979|1|102|Being There|John Chance, the gardener (aka Chauncey Gardiner)|f
+241|1978|1|69|Heaven Can Wait|Joe Pendleton (alias, Leo Farnsworth, Tom Jarrett)|f
+242|1978|1|103|The Buddy Holly Story|Buddy Holly|f
+243|1978|1|70|The Deer Hunter|Michael|f
+244|1978|1|104|The Boys from Brazil|Ezra Lieberman|f
+245|1978|1|89|Coming Home|Luke Martin|t
+246|1977|1|105|Annie Hall|Alvy Singer|f
+247|1977|1|106|Equus|Dr. Martin Dysart|f
+248|1977|1|58|The Goodbye Girl|Elliot Garfield|t
+249|1977|1|83|A Special Day|Gabriele|f
+250|1977|1|63|Saturday Night Fever|Tony Manero|f
+251|1976|1|70|Taxi Driver|Travis Bickle|f
+252|1976|1|107|Network|Howard Beale|t
+253|1976|1|108|Seven Beauties|Pasqualino Frafuso|f
+254|1976|1|109|Network|Max Schumacher|f
+255|1976|1|110|Rocky|Rocky Balboa|f
+256|1975|1|111|The Sunshine Boys|Willy Clark|f
+257|1975|1|37|One Flew over the Cuckoo's Nest|Randle Patrick McMurphy|t
+258|1975|1|67|Dog Day Afternoon|Sonny|f
+259|1975|1|112|The Man in the Glass Booth|Arthur Goldman|f
+260|1975|1|113|Give 'em Hell, Harry!|Harry S. Truman|f
+261|1974|1|114|Harry and Tonto|Harry|t
+262|1974|1|91|Murder on the Orient Express|Hercule Poirot|f
+263|1974|1|53|Lenny|Lenny Bruce|f
+264|1974|1|37|Chinatown|J. J. Gittes|f
+265|1974|1|67|The Godfather Part II|Michael Corleone|f
+266|1973|1|115|Last Tango in Paris|Paul|f
+267|1973|1|96|Save the Tiger|Harry Stoner|t
+268|1973|1|37|The Last Detail|Signalman First Class Buddusky|f
+269|1973|1|67|Serpico|Frank Serpico|f
+270|1973|1|116|The Sting|Johnny Hooker|f
+271|1972|1|115|The Godfather|Don Vito Corleone|t
+272|1972|1|36|Sleuth|Milo Tindale|f
+273|1972|1|104|Sleuth|Andrew Wyke|f
+274|1972|1|20|The Ruling Class|Jack, 14th Earl of Gurney|f
+275|1972|1|117|Sounder|Nathan Lee Morgan|f
+276|1971|1|107|Sunday Bloody Sunday|Dr. Daniel Hirsh|f
+277|1971|1|78|The French Connection|Jimmy 'Popeye' Doyle|t
+278|1971|1|111|Kotch|Joseph P. Kotcher|f
+279|1971|1|118|The Hospital|Dr. Herbert Bock|f
+280|1971|1|119|Fiddler on the Roof|Tevye|f
+281|1970|1|120|I Never Sang for My Father|Tom Garrison|f
+282|1970|1|121|The Great White Hope|Jack Jefferson|f
+283|1970|1|37|Five Easy Pieces|Robert Eroica Dupea|f
+284|1970|1|122|Love Story|Oliver Barrett IV|f
+285|1970|1|118|Patton|General George S. Patton, Jr.|t
+286|1969|1|106|Anne of the Thousand Days|King Henry VIII|f
+287|1969|1|53|Midnight Cowboy|Ratso Rizzo|f
+288|1969|1|20|Goodbye, Mr. Chips|Arthur Chipping|f
+289|1969|1|89|Midnight Cowboy|Joe Buck|f
+290|1969|1|123|True Grit|Rooster Cogburn|t
+291|1968|1|124|The Heart Is a Lonely Hunter|Singer|f
+292|1968|1|125|The Fixer|Yakov Bok|f
+293|1968|1|126|Oliver!|Fagin|f
+294|1968|1|20|The Lion in Winter|King Henry II|f
+295|1968|1|127|Charly|Charly Gordon|t
+296|1967|1|69|Bonnie and Clyde|Clyde Barrow|f
+297|1967|1|53|The Graduate|Ben Braddock|f
+298|1967|1|62|Cool Hand Luke|Luke Jackson|f
+299|1967|1|128|In the Heat of the Night|Police Chief Bill Gillespie|t
+300|1967|1|129|Guess Who's Coming to Dinner|Matt Drayton|f
+301|1966|1|124|The Russians Are Coming The Russians Are Coming|Rozanov|f
+302|1966|1|106|Who's Afraid of Virginia Woolf?|George|f
+303|1966|1|36|Alfie|Alfie|f
+304|1966|1|130|The Sand Pebbles|Jake Holman|f
+305|1966|1|131|A Man for All Seasons|Sir Thomas More|t
+306|1965|1|106|The Spy Who Came In from the Cold|Alec Leamas|f
+307|1965|1|132|Cat Ballou|Kid Shelleen/Tim Strawn|t
+308|1965|1|104|Othello|Othello|f
+309|1965|1|128|The Pawnbroker|Sol Nazerman|f
+310|1965|1|133|Ship of Fools|Dr. Schumann|f
+311|1964|1|106|Becket|Thomas Becket|f
+312|1964|1|134|My Fair Lady|Professor Henry Higgins|t
+313|1964|1|20|Becket|King Henry II|f
+314|1964|1|135|Zorba the Greek|Alexis Zorba|f
+315|1964|1|102|Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb|Group Captain Lionel Mandrake/President Muffley/Dr. Strangelove|f
+316|1963|1|91|Tom Jones|Tom Jones|f
+317|1963|1|74|This Sporting Life|Frank Machin|f
+318|1963|1|134|Cleopatra|Julius Caesar|f
+319|1963|1|62|Hud|Hud Bannon|f
+320|1963|1|136|Lilies of the Field|Homer Smith|t
+321|1962|1|98|Birdman of Alcatraz|Robert Stroud|f
+322|1962|1|96|Days of Wine and Roses|Joe Clay|f
+323|1962|1|83|Divorce--Italian Style|Ferdinando Cefalu|f
+324|1962|1|20|Lawrence of Arabia|T.E. Lawrence|f
+325|1962|1|137|To Kill a Mockingbird|Atticus Finch|t
+326|1961|1|138|Fanny|C√©sar|f
+327|1961|1|62|The Hustler|Eddie Felson|f
+328|1961|1|112|Judgment at Nuremberg|Hans Rolfe|t
+329|1961|1|129|Judgment at Nuremberg|Judge Dan Haywood|f
+330|1961|1|139|The Mark|Jim Fuller|f
+331|1960|1|140|Sons and Lovers|Morel|f
+332|1960|1|98|Elmer Gantry|Elmer Gantry|t
+333|1960|1|96|The Apartment|C.C. 'Bud' Baxter|f
+334|1960|1|104|The Entertainer|Archie Rice|f
+335|1960|1|129|Inherit the Wind|Henry Drummond|f
+336|1959|1|141|Room at the Top|Joe Lampton|f
+337|1959|1|142|Ben-Hur|Judah Ben-Hur|t
+338|1959|1|96|Some Like It Hot|Jerry/Daphne|f
+339|1959|1|143|The Last Angry Man|Dr. Sam Abelman|f
+340|1959|1|144|Anatomy of a Murder|Paul Biegler|f
+341|1958|1|145|The Defiant Ones|John 'Joker' Jackson|f
+342|1958|1|62|Cat on a Hot Tin Roof|Brick Pollitt|f
+343|1958|1|146|Separate Tables|Major Pollock|t
+344|1958|1|136|The Defiant Ones|Noah Cullen|f
+345|1958|1|129|The Old Man and the Sea|The Old Man|f
+346|1957|1|115|Sayonara|Major Lloyd Gruver|f
+347|1957|1|147|A Hatful of Rain|Polo|f
+348|1957|1|148|The Bridge on the River Kwai|Colonel Nicholson|t
+349|1957|1|149|Witness for the Prosecution|Sir Wilfrid Robarts|f
+350|1957|1|135|Wild Is the Wind|Gino|f
+351|1956|1|150|The King and I|The King|t
+352|1956|1|151|Giant|Jett Rink|f
+353|1956|1|152|Lust for Life|Vincent Van Gogh|f
+354|1956|1|153|Giant|Bick Benedict|f
+355|1956|1|154|Richard III|Richard III|f
+356|1955|1|155|Marty|Marty Pilletti|t
+357|1955|1|156|Love Me or Leave Me|Martin Snyder|f
+358|1955|1|151|East of Eden|Cal Trask|f
+359|1955|1|157|The Man with the Golden Arm|Frankie|f
+360|1955|1|129|Bad Day at Black Rock|John J. Macreedy|f
+361|1954|1|158|The Caine Mutiny|Captain Queeg|f
+362|1954|1|115|On the Waterfront|Terry Malloy|t
+363|1954|1|159|The Country Girl|Frank Elgin|f
+364|1954|1|160|A Star Is Born|Norman Maine/Alfred Hinkel|f
+365|1954|1|161|Adventures of Robinson Crusoe|Robinson Crusoe|f
+366|1953|1|115|Julius Caesar|Marc Antony|f
+367|1953|1|106|The Robe|Marcellus Gallio|f
+368|1953|1|162|From Here to Eternity|Robert E. Lee Prewitt|f
+369|1953|1|109|Stalag 17|Sefton|t
+370|1953|1|98|From Here to Eternity|Sgt. Milton Warden|f
+371|1952|1|115|Viva Zapata!|Emiliano Zapata|f
+372|1952|1|163|High Noon|Will Kane|t
+373|1952|1|152|The Bad and the Beautiful|Jonathan Shields|f
+374|1952|1|164|Moulin Rouge|Toulouse-Lautrec|f
+375|1952|1|148|The Lavender Hill Mob|Holland|f
+376|1951|1|158|The African Queen|Charlie Allnut|t
+377|1951|1|115|A Streetcar Named Desire|Stanley Kowalski|f
+378|1951|1|162|A Place in the Sun|George Eastman|f
+379|1951|1|165|Bright Victory|Larry Levins|f
+380|1951|1|166|Death of a Salesman|Willy Loman|f
+381|1950|1|167|The Magnificent Yankee|Oliver Wendell Holmes|f
+382|1950|1|164|Cyrano de Bergerac|Cyrano de Bergerac|t
+383|1950|1|109|Sunset Blvd.|Joe Gillis|f
+384|1950|1|144|Harvey|Elwood P. Dowd|f
+385|1950|1|129|Father of the Bride|Stanley T. Banks|f
+386|1949|1|168|All the King's Men|Willie Stark|t
+387|1949|1|152|Champion|Midge Kelly|f
+388|1949|1|137|Twelve O'Clock High|General Savage|f
+389|1949|1|169|The Hasty Heart|Lachie|f
+390|1949|1|123|Sands of Iwo Jima|Sergeant John M. Stryker|f
+391|1948|1|170|Johnny Belinda|Dr. Robert Richardson|f
+392|1948|1|162|The Search|Ralph Stevenson|f
+393|1948|1|171|When My Baby Smiles at Me|Skid|f
+394|1948|1|104|Hamlet|Hamlet|t
+395|1948|1|172|Sitting Pretty|Lynn Belvedere|f
+396|1947|1|173|A Double Life|Anthony John|t
+397|1947|1|174|Body and Soul|Charlie Davis|f
+398|1947|1|137|Gentleman's Agreement|Phil Green|f
+399|1947|1|175|Life with Father|Clarence Day|f
+400|1947|1|176|Mourning Becomes Electra|Orin Mannon|f
+401|1946|1|166|The Best Years of Our Lives|Al Stephenson|t
+402|1946|1|104|Henry V|Henry V|f
+403|1946|1|177|The Jolson Story|Al Jolson|f
+404|1946|1|137|The Yearling|Pa Baxter|f
+405|1946|1|144|It's a Wonderful Life|George Bailey|f
+406|1945|1|159|The Bells of St. Mary's|Father O'Malley|f
+407|1945|1|178|Anchors Aweigh|Joseph Brady|f
+408|1945|1|179|The Lost Weekend|Don Birnam|t
+409|1945|1|137|The Keys of the Kingdom|Father Francis Chisholm|f
+410|1945|1|180|A Song to Remember|Frederick Chopin|f
+411|1944|1|138|Gaslight|Gregory Anton|f
+412|1944|1|159|Going My Way|Father O'Malley|t
+413|1944|1|181|Going My Way|Father Fitzgibbon|f
+414|1944|1|182|None but the Lonely Heart|Ernie Mott|f
+415|1944|1|183|Wilson|Woodrow Wilson|f
+416|1943|1|158|Casablanca|Rick Blane|f
+417|1943|1|163|For Whom the Bell Tolls|Robert Jordan|f
+418|1943|1|184|Watch on the Rhine|Kurt Muller|t
+419|1943|1|185|Madame Curie|Pierre Curie|f
+420|1943|1|186|The Human Comedy|Homer Macauley|f
+421|1942|1|156|Yankee Doodle Dandy|George M. Cohan|t
+422|1942|1|173|Random Harvest|Charles Ranier|f
+423|1942|1|163|The Pride of the Yankees|Lou Gehrig|f
+424|1942|1|185|Mrs. Miniver|Clem Miniver|f
+425|1942|1|187|The Pied Piper|Howard|f
+426|1941|1|163|Sergeant York|Alvin C. York|t
+427|1941|1|182|Penny Serenade|Roger Adams|f
+428|1941|1|188|All That Money Can Buy|Mr. Scratch|f
+429|1941|1|189|Here Comes Mr. Jordan|Joe Pendleton|f
+430|1941|1|190|Citizen Kane|Charles Foster Kane|f
+431|1940|1|191|The Great Dictator|Hynkel, Dictator of Tomania|f
+432|1940|1|97|The Grapes of Wrath|Tom Joad|f
+433|1940|1|192|Abe Lincoln in Illinois|Abraham Lincoln|f
+434|1940|1|104|Rebecca|Maxim de Winter|f
+435|1940|1|144|The Philadelphia Story|Mike Connor|t
+436|1939|1|193|Goodbye, Mr. Chips|Mr. Chips|t
+437|1939|1|194|Gone with the Wind|Rhett Butler|f
+438|1939|1|104|Wuthering Heights|Heathcliff|f
+439|1939|1|186|Babes in Arms|Mickey Moran|f
+440|1939|1|144|Mr. Smith Goes to Washington|Jefferson Smith|f
+441|1938|1|138|Algiers|Pepe Le Moko|f
+442|1938|1|156|Angels with Dirty Faces|Rocky Sullivan|f
+443|1938|1|193|The Citadel|Andrew Mason|f
+444|1938|1|195|Pygmalion|Professor Henry Higgins|f
+445|1938|1|129|Boys Town|Father Flanagan|t
+446|1937|1|138|Conquest|Napoleon Bonaparte|f
+447|1937|1|166|A Star Is Born|Norman Maine (Alfred Hinkel)|f
+448|1937|1|189|Night Must Fall|Danny|f
+449|1937|1|143|The Life of Emile Zola|Emile Zola|f
+450|1937|1|129|Captains Courageous|Manuel|t
+451|1936|1|163|Mr. Deeds Goes to Town|Longfellow Deeds|f
+452|1936|1|188|Dodsworth|Sam Dodsworth|f
+453|1936|1|143|The Story of Louis Pasteur|Louis Pasteur|t
+454|1936|1|175|My Man Godfrey|Godfrey Parks|f
+455|1936|1|129|San Francisco|Father Tim Mullen|f
+456|1935|1|194|Mutiny on the Bounty|Fletcher Christian|f
+457|1935|1|149|Mutiny on the Bounty|Captain Bligh|f
+458|1935|1|196|The Informer|Gypo Nolan|t
+459|1935|1|143|Black Fury|Joe Radek|f
+460|1935|1|197|Mutiny on the Bounty|Roger Byam|f
+461|1934|1|194|It Happened One Night|Peter Warne|t
+462|1934|1|198|The Affairs of Cellini|Allesandro, Duke of Florence|f
+463|1934|1|175|The Thin Man|Nick Charles|f
+464|1932|1|195|Berkeley Square|Peter Standish|f
+465|1932|1|149|The Private Life of Henry VIII|Henry VIII|t
+466|1932|1|143|I Am a Fugitive from a Chain Gang|James Allen|f
+467|1931|1|199|The Champ|Champ|t
+468|1931|1|200|The Guardsman|The Actor|f
+469|1931|1|166|Dr. Jekyll and Mr. Hyde|Dr. Henry Jekyll/Mr. Hyde|t
+470|1930|1|201|A Free Soul|Stephen Ashe|t
+471|1930|1|202|Skippy|Skippy Skinner|f
+472|1930|1|203|Cimarron|Yancey Cravat|f
+473|1930|1|166|The Royal Family of Broadway|Tony Cavendish|f
+474|1930|1|204|The Front Page|Walter Burns|f
+475|1929|1|205|Disraeli|Benjamin Disraeli|t
+476|1929|1|205|The Green Goddess|Oxonian, the Rajah of Rukh|f
+477|1929|1|199|The Big House|'Machine Gun' Butch Schmidt|f
+478|1929|1|206|The Big Pond|Pierre Mirande|f
+479|1929|1|173|Bulldog Drummond|Hugh 'Bulldog' Drummond|f
+480|1929|1|207|The Rogue Song|Yegor|f
+481|1928|1|208|Thunderbolt|Thunderbolt Jim Lang|f
+482|1928|1|209|In Old Arizona|The Cisco Kid|t
+483|1928|1|210|Alibi|No. 1065, Chick Williams|f
+484|1928|1|143|The Valiant|James Dyke|f
+485|1928|1|211|The Patriot|Count Pahlen|f
+486|1927|1|212|The Noose|Nickie Elkins|f
+487|1927|1|213|The Last Command|General Dolgorucki [Grand Duke Sergius Alexander]|t
+488|2010|2|214|The Fighter|Dicky Eklund|t
+489|2010|2|215|Winter's Bone|Teardrop|f
+490|2010|2|8|The Town|James Coughlin|f
+491|2010|2|216|The Kids Are All Right|Paul|f
+492|2010|2|43|The King's Speech|Lionel Logue|f
+493|2009|2|50|Invictus|Francois Pienaar|f
+494|2009|2|56|The Messenger|Captain Tony Stone|f
+495|2009|2|217|The Last Station|Tolstoy|f
+496|2009|2|218|The Lovely Bones|George Harvey|f
+497|2009|2|219|Inglourious Basterds|Col. Hans Landa|t
+498|2008|2|220|Milk|Dan White|f
+499|2008|2|221|Tropic Thunder|Kirk Lazarus|f
+500|2008|2|23|Doubt|Father Brendan Flynn|f
+501|2008|2|25|The Dark Knight|Joker|t
+502|2008|2|222|Revolutionary Road|John Givings|f
+503|2007|2|223|The Assassination of Jesse James by the Coward Robert Ford|Robert Ford|f
+504|2007|2|1|No Country for Old Men|Anton Chigurh|t
+505|2007|2|23|Charlie Wilson's War|Gust Avrakotos|f
+506|2007|2|224|Into the Wild|Ron Franz|f
+507|2007|2|40|Michael Clayton|Arthur Edens|f
+508|2006|2|124|Little Miss Sunshine|Grandpa|t
+509|2006|2|225|Little Children|Ronnie J. McGorvey|f
+510|2006|2|226|Blood Diamond|Solomon Vandy|f
+511|2006|2|227|Dreamgirls|James 'Thunder' Early|f
+512|2006|2|228|The Departed|Dignam|f
+513|2005|2|6|Syriana|Bob Barnes|t
+514|2005|2|229|Crash|Officer Ryan|f
+515|2005|2|230|Cinderella Man|Joe Gould|f
+516|2005|2|231|Brokeback Mountain|Jack Twist|f
+517|2005|2|82|A History of Violence|Richie Cusack|f
+518|2004|2|232|The Aviator|Senator Ralph Owen Brewster|f
+519|2004|2|233|Sideways|Jack|f
+520|2004|2|30|Collateral|Max|f
+521|2004|2|7|Million Dollar Baby|Eddie Scrap-Iron Dupris|t
+522|2004|2|234|Closer|Larry|f
+523|2003|2|235|The Cooler|Shelly Kaplow|f
+524|2003|2|236|21 Grams|Jack Jordan|f
+525|2003|2|226|In America|Mateo|f
+526|2003|2|237|Mystic River|Dave Boyle|t
+527|2003|2|238|The Last Samurai|Katsumoto|f
+528|2002|2|239|Adaptation|John Laroche|t
+529|2002|2|42|The Hours|Richard Brown|f
+530|2002|2|62|Road to Perdition|John Rooney|f
+531|2002|2|240|Chicago|Amos Hart|f
+532|2002|2|241|Catch Me If You Can|Frank Abagnale|f
+533|2001|2|242|Iris|John Bayley|t
+534|2001|2|243|Training Day|Jake|f
+535|2001|2|31|Sexy Beast|Don Logan|f
+536|2001|2|47|The Lord of the Rings: The Fellowship of the Ring|Gandalf|f
+537|2001|2|89|Ali|Howard Cosell|f
+538|2000|2|2|The Contender|President Jackson Evans|f
+539|2000|2|244|Shadow of the Vampire|Max Schreck|f
+540|2000|2|236|Traffic|Javier Rodriguez|t
+541|2000|2|91|Erin Brockovich|Ed Masry|f
+542|2000|2|26|Gladiator|Commodus|f
+543|1999|2|36|The Cider House Rules|Dr. Wilbur Larch|t
+544|1999|2|54|Magnolia|Frank T.J. Mackey|f
+545|1999|2|245|The Green Mile|John Coffey|f
+546|1999|2|32|The Talented Mr. Ripley|Dickie Greenleaf|f
+547|1999|2|246|The Sixth Sense|Cole Sear|f
+548|1998|2|247|Affliction|Glen Whitehouse|t
+549|1998|2|51|A Civil Action|Jerome Facher|f
+550|1998|2|42|The Truman Show|Christof|f
+551|1998|2|43|Shakespeare in Love|Philip Henslowe|f
+552|1998|2|57|A Simple Plan|Jacob|f
+553|1997|2|248|Jackie Brown|Max Cherry|f
+554|1997|2|59|Amistad|John Quincy Adams|f
+555|1997|2|249|As Good as It Gets|Simon Bishop|f
+556|1997|2|250|Boogie Nights|Jack Horner|f
+557|1997|2|71|Good Will Hunting|Sean McGuire|t
+558|1996|2|251|Jerry Maguire|Rod Tidwell|t
+559|1996|2|252|Fargo|Jerry Lundegaard|f
+560|1996|2|253|Shine|Peter Helfgott|f
+561|1996|2|49|Primal Fear|Aaron Stampler|f
+562|1996|2|86|Ghosts of Mississippi|Byron De La Beckwith|f
+563|1995|2|254|Babe|Farmer Hoggett|f
+564|1995|2|42|Apollo 13|Gene Kranz|f
+565|1995|2|12|12 Monkeys|Jeffrey Goines|f
+566|1995|2|255|Rob Roy|Archibald Cunningham|f
+567|1995|2|45|The Usual Suspects|Roger 'Verbal' Kint|t
+568|1994|2|256|Pulp Fiction|Jules Winnfield|f
+569|1994|2|257|Ed Wood|Bela Lugosi|t
+570|1994|2|258|Bullets over Broadway|Cheech|f
+571|1994|2|131|Quiz Show|Mark Van Doren|f
+572|1994|2|259|Forrest Gump|Lieutenant Dan|f
+573|1993|2|18|What's Eating Gilbert Grape|Arnie Grape|f
+574|1993|2|55|Schindler's List|Amon Goeth|f
+575|1993|2|16|The Fugitive|Samuel Gerard|t
+576|1993|2|260|In the Line of Fire|Mitch Leary|f
+577|1993|2|261|In the Name of the Father|Giuseppe Conlon|f
+578|1992|2|262|The Crying Game|Dil|f
+579|1992|2|78|Unforgiven|Little Bill Daggett|t
+580|1992|2|37|A Few Good Men|Col. Nathan R. Jessep|f
+581|1992|2|67|Glengarry Glen Ross|Ricky Roma|f
+582|1992|2|263|Mr. Saturday Night|Stan|f
+583|1991|2|16|JFK|Clay Shaw|f
+584|1991|2|264|Bugsy|Mickey Cohen|f
+585|1991|2|31|Bugsy|Meyer Lansky|f
+586|1991|2|265|Barton Fink|Jack Lipnick|f
+587|1991|2|266|City Slickers|Curly|t
+588|1990|2|267|Longtime Companion|David|f
+589|1990|2|268|The Godfather, Part III|Vincent Mancini|f
+590|1990|2|269|Dances With Wolves|Kicking Bird|f
+591|1990|2|67|Dick Tracy|Big Boy Caprice|f
+592|1990|2|270|Good Fellas|Tommy DeVito|t
+593|1989|2|271|Do the Right Thing|Sal|f
+594|1989|2|272|Driving Miss Daisy|Boolie Werthan|f
+595|1989|2|115|A Dry White Season|McKenzie|f
+596|1989|2|257|Crimes and Misdemeanors|Judah Rosenthal|f
+597|1989|2|39|Glory|Trip|t
+598|1988|2|148|Little Dorrit|William Dorrit|f
+599|1988|2|273|A Fish Called Wanda|Otto|t
+600|1988|2|257|Tucker The Man and His Dream|Abe|f
+601|1988|2|274|Running on Empty|Danny Pope|f
+602|1988|2|275|Married to the Mob|Tony 'the Tiger' Russo|f
+603|1987|2|276|Broadcast News|Aaron Altman|f
+604|1987|2|277|The Untouchables|Jim Malone|t
+605|1987|2|7|Street Smart|Fast Black|f
+606|1987|2|278|Moonstruck|Cosmo Castorini|f
+607|1987|2|39|Cry Freedom|Steve Biko|f
+608|1986|2|279|Platoon|Sgt. Barnes|f
+609|1986|2|36|Hannah and Her Sisters|Elliot|t
+610|1986|2|244|Platoon|Sgt. Elias|f
+611|1986|2|280|A Room with a View|Mr. Emerson|f
+612|1986|2|281|Hoosiers|Shooter|f
+613|1985|2|282|Cocoon|Art Selwyn|t
+614|1985|2|283|Out of Africa|Bror|f
+615|1985|2|284|Prizzi's Honor|Don Corrado Prizzi|f
+616|1985|2|285|Jagged Edge|Sam Ransom|f
+617|1985|2|286|Runaway Train|Buck|f
+618|1984|2|287|A Soldier's Story|Sgt. Waters|f
+619|1984|2|260|Places in the Heart|Mr. Will|f
+620|1984|2|288|The Karate Kid|Miyagi|f
+621|1984|2|289|The Killing Fields|Dith Pran|t
+622|1984|2|290|Greystoke: The Legend of Tarzan, Lord of the Apes|The Sixth Earl of Greystoke|f
+623|1983|2|291|To Be or Not to Be|Col. Erhardt|f
+624|1983|2|292|Terms of Endearment|Sam Burns|f
+625|1983|2|37|Terms of Endearment|Garrett Breedlove|t
+626|1983|2|293|The Right Stuff|Chuck Yeager|f
+627|1983|2|294|Cross Creek|Marsh Turner|f
+628|1982|2|291|The Best Little Whorehouse in Texas|The Governor|f
+629|1982|2|295|An Officer and a Gentleman|Sgt. Emil Foley|t
+630|1982|2|292|The World According to Garp|Roberta Muldoon|f
+631|1982|2|160|The Verdict|Edward Concannon|f
+632|1982|2|296|Victor/Victoria|Toddy|f
+633|1981|2|297|Only When I Laugh|Jimmy Perry|f
+634|1981|2|298|Arthur|Hobson|t
+635|1981|2|299|Chariots of Fire|Sam Mussabini|f
+636|1981|2|37|Reds|Eugene O'Neill|f
+637|1981|2|300|Ragtime|Coalhouse Walker, Jr.|f
+638|1980|2|301|Ordinary People|Dr. Berger|f
+639|1980|2|302|Ordinary People|Conrad Jarrett|t
+640|1980|2|303|The Great Santini|Ben Meechum|f
+641|1980|2|270|Raging Bull|Joey LaMotta|f
+642|1980|2|304|Melvin and Howard|Howard Hughes|f
+643|1979|2|120|Being There|Benjamin Rand|t
+644|1979|2|51|Apocalypse Now|Lieutenant Colonel Kilgore|f
+645|1979|2|305|The Rose|Dyer|f
+646|1979|2|306|Kramer vs. Kramer|Billy Kramer|f
+647|1979|2|186|The Black Stallion|Henry Dailey|f
+648|1978|2|307|Coming Home|Captain Bob Hyde|f
+649|1978|2|44|Comes a Horseman|Dodger|f
+650|1978|2|100|Midnight Express|Max|f
+651|1978|2|241|The Deer Hunter|Nick|t
+652|1978|2|308|Heaven Can Wait|Max Corkle|f
+653|1977|2|309|The Turning Point|Yuri Kopeikine|f
+654|1977|2|310|Equus|Alan Strang|f
+655|1977|2|148|Star Wars|Ben 'Obi-Wan' Kenobi|f
+656|1977|2|304|Julia|Dashiell Hammett|t
+657|1977|2|112|Julia|Johann|f
+658|1976|2|311|Network|Arthur Jensen|f
+659|1976|2|312|Rocky|Mickey|f
+660|1976|2|104|Marathon Man|Szell|f
+661|1976|2|304|All the President's Men|Ben Bradlee|t
+662|1976|2|313|Rocky|Paulie|f
+663|1975|2|314|The Sunshine Boys|Al Lewis|t
+664|1975|2|315|One Flew over the Cuckoo's Nest|Billy Bibbit|f
+665|1975|2|312|The Day of the Locust|Harry|f
+666|1975|2|316|Dog Day Afternoon|Leon|f
+667|1975|2|308|Shampoo|Lester Carr|f
+668|1974|2|317|The Towering Inferno|Harlee Claiborne|f
+669|1974|2|2|Thunderbolt and Lightfoot|Lightfoot|f
+670|1974|2|70|The Godfather Part II|Vito Corleone|t
+671|1974|2|318|The Godfather Part II|Frankie Pentangeli|f
+672|1974|2|319|The Godfather Part II|Hyman Roth|f
+673|1973|2|278|Bang the Drum Slowly|Dutch Schnell|f
+674|1973|2|320|Save the Tiger|Phil Greene|f
+675|1973|2|321|The Paper Chase|Professor Kingsfield|t
+676|1973|2|322|The Exorcist|Father Damian Karras|f
+677|1973|2|323|The Last Detail|Meadows|f
+678|1972|2|324|The Heartbreak Kid|Mr. Corcoran|f
+679|1972|2|325|The Godfather|Sonny Corleone|f
+680|1972|2|51|The Godfather|Tom Hagen|f
+681|1972|2|326|Cabaret|The Master of Ceremonies|t
+682|1972|2|67|The Godfather|Michael Corleone|f
+683|1971|2|2|The Last Picture Show|Duane Jackson|f
+684|1971|2|327|Fiddler on the Roof|Motel|f
+685|1971|2|328|Sometimes a Great Notion|Joe Ben Stamper|f
+686|1971|2|329|The Last Picture Show|Sam the Lion|t
+687|1971|2|101|The French Connection|Buddy Russo|f
+688|1970|2|330|Lovers and Other Strangers|Frank Vecchio|f
+689|1970|2|331|Little Big Man|Old Lodge Skins|f
+690|1970|2|78|I Never Sang for My Father|Gene Garrison|f
+691|1970|2|332|Love Story|Phil Cavilleri|f
+692|1970|2|333|Ryan's Daughter|Michael|t
+693|1969|2|334|The Reivers|Ned McCaslin|f
+694|1969|2|335|Bob & Carol & Ted & Alice|Ted Henderson|f
+695|1969|2|37|Easy Rider|George Hanson|f
+696|1969|2|336|Anne of the Thousand Days|Cardinal Wolsey|f
+697|1969|2|337|They Shoot Horses, Don't They?|Rocky|t
+698|1968|2|338|The Subject Was Roses|John Cleary|t
+699|1968|2|339|Faces|Chet|f
+700|1968|2|340|Star!|Noel Coward|f
+701|1968|2|341|Oliver!|The Artful Dodger|f
+702|1968|2|342|The Producers|Leo Bloom|f
+703|1967|2|343|The Dirty Dozen|Victor Franko|f
+704|1967|2|78|Bonnie and Clyde|Buck Barrow|f
+705|1967|2|344|Guess Who's Coming to Dinner|Monsignor Ryan|f
+706|1967|2|345|Cool Hand Luke|Dragline|t
+707|1967|2|346|Bonnie and Clyde|C.W. Moss|f
+708|1966|2|347|The Sand Pebbles|Po-Han|f
+709|1966|2|160|Georgy Girl|James Leamington|f
+710|1966|2|111|The Fortune Cookie|Willie Gingrich|t
+711|1966|2|348|Who's Afraid of Virginia Woolf?|Nick|f
+712|1966|2|349|A Man for All Seasons|King Henry VIII|f
+713|1965|2|350|A Thousand Clowns|Arnold Burns|t
+714|1965|2|351|The Flight of the Phoenix|Crow|f
+715|1965|2|95|Doctor Zhivago|Pasha Antipov/Strelnikoff|f
+716|1965|2|352|Ship of Fools|Glocken|f
+717|1965|2|353|Othello|Iago|f
+718|1964|2|298|Becket|King Louis VII of France|f
+719|1964|2|354|My Fair Lady|Alfred P. Doolittle|f
+720|1964|2|355|Seven Days in May|Senator Raymond Clark|f
+721|1964|2|356|The Best Man|Art Hockstader|f
+722|1964|2|357|Topkapi|Arthur Simpson|t
+723|1963|2|358|Twilight of Honor|Ben Brown|f
+724|1963|2|359|Captain Newman, M.D.|Corp. Jim Tompkins|f
+725|1963|2|120|Hud|Homer Bannon|t
+726|1963|2|360|Tom Jones|Squire Western|f
+727|1963|2|361|The Cardinal|Cardinal Glennon|f
+728|1962|2|362|Sweet Bird of Youth|Tom 'Boss' Finley|t
+729|1962|2|363|What Ever Happened to Baby Jane?|Edwin Flagg|f
+730|1962|2|364|Birdman of Alcatraz|Feto Gomez|f
+731|1962|2|365|Lawrence of Arabia|Sherif Ali ibn el Kharish|f
+732|1962|2|366|Billy Budd|Billy Budd|f
+733|1961|2|367|West Side Story|Bernardo|t
+734|1961|2|162|Judgment at Nuremberg|Rudolph Peterson|f
+735|1961|2|368|Pocketful of Miracles|Joy Boy|f
+736|1961|2|369|The Hustler|Minnesota Fats|f
+737|1961|2|118|The Hustler|Bert Gordon|f
+738|1960|2|368|Murder, Inc.|Abe Reles|f
+739|1960|2|370|The Apartment|Dr. Dreyfuss|f
+740|1960|2|371|Exodus|Dov Landau|f
+741|1960|2|357|Spartacus|Batiatus|t
+742|1960|2|372|The Alamo|Beekeeper|f
+743|1959|2|360|Ben-Hur|Sheik Ilderim|t
+744|1959|2|373|Anatomy of a Murder|Parnell McCarthy|f
+745|1959|2|118|Anatomy of a Murder|Claude Dancer|f
+746|1959|2|374|The Young Philadelphians|Chester Gwynn|f
+747|1959|2|375|The Diary of Anne Frank|Mr. Dussell|f
+748|1958|2|376|The Defiant Ones|Sheriff Max Muller|f
+749|1958|2|377|The Brothers Karamazov|Fyodor Karamazov|f
+750|1958|2|378|The Big Country|Rufus Hannassey|t
+751|1958|2|165|Some Came Running|Frank Hirsh|f
+752|1958|2|337|Teacher's Pet|Dr. Hugo Pine|f
+753|1957|2|379|Sayonara|Joe Kelly|t
+754|1957|2|380|A Farewell to Arms|Major Alessandro Rinaldi|f
+755|1957|2|381|The Bridge on the River Kwai|Saito|f
+756|1957|2|165|Peyton Place|Lucas Cross|f
+757|1957|2|382|Peyton Place|Norman Page|f
+758|1956|2|383|Bus Stop|Bo|f
+759|1956|2|384|Friendly Persuasion|Josh Birdwell|f
+760|1956|2|135|Lust for Life|Paul Gauguin|t
+761|1956|2|186|The Bold and the Brave|Dooley|f
+762|1956|2|385|Written on the Wind|Kyle Hadley|f
+763|1955|2|165|Trial|Barney Castle|f
+764|1955|2|96|Mister Roberts|Ensign Pulver|t
+765|1955|2|386|Marty|Angie|f
+766|1955|2|371|Rebel without a Cause|Plato|f
+767|1955|2|373|Picnic|Howard Bevans|f
+768|1954|2|377|On the Waterfront|Johnny Friendly|f
+769|1954|2|387|On the Waterfront|Father Barry|f
+770|1954|2|355|The Barefoot Contessa|Oscar Muldoon|t
+771|1954|2|128|On the Waterfront|Charles Malloy|f
+772|1954|2|388|The Caine Mutiny|Captain DeVriess|f
+773|1953|2|324|Roman Holiday|Irving Radovich|f
+774|1953|2|389|Shane|Joey Starrett|f
+775|1953|2|266|Shane|Wilson|f
+776|1953|2|157|From Here to Eternity|Angelo Maggio|t
+777|1953|2|390|Stalag 17|Stosh/'Animal'|f
+778|1952|2|106|My Cousin Rachel|Philip Ashley|f
+779|1952|2|391|The Big Sky|Zeb Callaway|f
+780|1952|2|196|The Quiet Man|Red Will Danaher|f
+781|1952|2|266|Sudden Fear|Lester Blaine|f
+782|1952|2|135|Viva Zapata!|Eufemio Zapata|t
+783|1951|2|392|Quo Vadis|Petronius|f
+784|1951|2|393|Death of a Salesman|Biff Loman|f
+785|1951|2|387|A Streetcar Named Desire|Mitch|t
+786|1951|2|357|Quo Vadis|Nero|f
+787|1951|2|337|Come Fill the Cup|Boyd Copeland|f
+788|1950|2|394|Broken Arrow|Cochise|f
+789|1950|2|395|Mister 880|Skipper Miller|f
+790|1950|2|396|The Asphalt Jungle|Dr. Erwin Riedenschneider|f
+791|1950|2|397|All about Eve|Addison De Witt|t
+792|1950|2|398|Sunset Blvd.|Max Von Mayerling|f
+793|1949|2|399|All the King's Men|Jack Burden|f
+794|1949|2|400|Twelve O'Clock High|Major Stovall|t
+795|1949|2|165|Champion|Connie Kelly|f
+796|1949|2|290|The Heiress|Dr. Austin Sloper|f
+797|1949|2|113|Battleground|Kinnie|f
+798|1948|2|401|Johnny Belinda|Black McDonald|f
+799|1948|2|164|Joan of Arc|The Dauphin, Charles VIII|f
+800|1948|2|402|I Remember Mama|Uncle Chris|f
+801|1948|2|188|The Treasure of the Sierra Madre|Howard|t
+802|1948|2|344|The Luck of the Irish|Horace|f
+803|1947|2|401|The Farmer's Daughter|Clancy|f
+804|1947|2|403|Ride the Pink Horse|Pancho|f
+805|1947|2|395|Miracle on 34th Street|Kris Kringle|t
+806|1947|2|404|Crossfire|Montgomery|f
+807|1947|2|405|Kiss of Death|Tommy Udo|f
+808|1946|2|406|The Green Years|Alexander Gow|f
+809|1946|2|407|The Jolson Story|Steve Martin|f
+810|1946|2|408|Notorious|Alexander Sebastian|f
+811|1946|2|409|The Best Years of Our Lives|Homer Parrish|t
+812|1946|2|172|The Razor's Edge|Elliott Templeton|f
+813|1945|2|410|Spellbound|Dr. Alex Brulov|f
+814|1945|2|411|The Corn Is Green|Morgan Evans|f
+815|1945|2|412|A Tree Grows in Brooklyn|Johnny Nolan|t
+816|1945|2|413|G. I. Joe|Lieutenant Walker|f
+817|1945|2|414|A Medal for Benny|Charlie Martini|f
+818|1944|2|415|The Seventh Cross|Paul Roeder|f
+819|1944|2|181|Going My Way|Father Fitzgibbon|t
+820|1944|2|408|Mr. Skeffington|Job Skeffington|f
+821|1944|2|172|Laura|Waldo Lydecker|f
+822|1944|2|187|Since You Went Away|Colonel Smollett|f
+823|1943|2|401|The Song of Bernadette|Dean Peyramale|f
+824|1943|2|406|The More the Merrier|Benjamin Dingle|t
+825|1943|2|414|Sahara|Giuseppe|f
+826|1943|2|408|Casablanca|Captain Louis Renault|f
+827|1943|2|416|For Whom the Bell Tolls|Pablo|f
+828|1942|2|417|Wake Island|Smacksie Randall|f
+829|1942|2|418|Johnny Eager|Jeff Hartnett|t
+830|1942|2|188|Yankee Doodle Dandy|Jerry Cohan|f
+831|1942|2|198|Tortilla Flat|The Pirate|f
+832|1942|2|419|Mrs. Miniver|Mr. Ballard|f
+833|1941|2|420|Sergeant York|Pastor Posier Pile|f
+834|1941|2|406|The Devil and Miss Jones|John P. Merrick|f
+835|1941|2|421|How Green Was My Valley|Mr. Morgan|t
+836|1941|2|422|Here Comes Mr. Jordan|Max Corkle|f
+837|1941|2|423|The Maltese Falcon|Kaspar Gutman|f
+838|1940|2|424|Foreign Correspondent|Van Meer|f
+839|1940|2|420|The Westerner|Judge Roy Bean|t
+840|1940|2|425|They Knew What They Wanted|Joe, the Foreman|f
+841|1940|2|426|The Great Dictator|Napaloni, Dictator of Bacteria|f
+842|1940|2|427|The Letter|Howard Joyce|f
+843|1939|2|428|Juarez|Emperor Maximilian von Habsburg|f
+844|1939|2|429|Mr. Smith Goes to Washington|President of the Senate|f
+845|1939|2|430|Beau Geste|Sergeant Markoff|f
+846|1939|2|431|Stagecoach|Dr. Josiah Boone|t
+847|1939|2|408|Mr. Smith Goes to Washington|Senator Joseph Paine|f
+848|1938|2|420|Kentucky|Peter Goodwin|t
+849|1938|2|174|Four Daughters|Mickey Borden|f
+850|1938|2|432|Algiers|Regis|f
+851|1938|2|433|Marie Antoinette|King Louis XVI|f
+852|1938|2|434|If I Were King|Louis XI|f
+853|1937|2|435|The Awful Truth|Daniel Leeson|f
+854|1937|2|431|The Hurricane|Doctor Kersaint|f
+855|1937|2|436|The Life of Emile Zola|Captain Alfred Dreyfus|t
+856|1937|2|437|Lost Horizon|Chang|f
+857|1937|2|438|Topper|Cosmo Topper|f
+858|1936|2|439|My Man Godfrey|Carlo|f
+859|1936|2|420|Come and Get It|Swan Bostrom|t
+860|1936|2|440|Pigskin Parade|Amos Dodd|f
+861|1936|2|434|Romeo and Juliet|Tybalt|f
+862|1936|2|416|The General Died at Dawn|General Yang|f
+863|2010|3|441|The Kids Are All Right|Nic|f
+864|2010|3|442|Rabbit Hole|Becca|f
+865|2010|3|443|Winter's Bone|Ree|f
+866|2010|3|444|Black Swan|Nina Sayers/The Swan Queen|t
+867|2010|3|445|Blue Valentine|Cindy|f
+868|2009|3|446|The Blind Side|Leigh Anne Tuohy|t
+869|2009|3|447|The Last Station|Sofya|f
+870|2009|3|448|An Education|Jenny|f
+871|2009|3|449|Precious: Based on the Novel 'Push' by Sapphire|Precious|f
+872|2009|3|450|Julie & Julia|Julia Child|f
+873|2008|3|451|Rachel Getting Married|Kym|f
+874|2008|3|452|Changeling|Christine Collins|f
+875|2008|3|453|Frozen River|Ray Eddy|f
+876|2008|3|450|Doubt|Sister Aloysius Beauvier|f
+877|2008|3|454|The Reader|Hanna Schmitz|t
+878|2007|3|455|Elizabeth: The Golden Age|Queen Elizabeth I|f
+879|2007|3|456|Away from Her|Fiona|f
+880|2007|3|457|La Vie en Rose|Edith Piaf|t
+881|2007|3|458|The Savages|Wendy Savage|f
+882|2007|3|459|Juno|Juno MacGuff|f
+883|2006|3|460|Volver|Raimunda|f
+884|2006|3|461|Notes on a Scandal|Barbara Covett|f
+885|2006|3|447|The Queen|The Queen|t
+886|2006|3|450|The Devil Wears Prada|Miranda Priestly|f
+887|2006|3|454|Little Children|Sarah Pierce|f
+888|2005|3|461|Mrs. Henderson Presents|Mrs. Laura Henderson|f
+889|2005|3|462|Transamerica|Bree|f
+890|2005|3|463|Pride & Prejudice|Elizabeth Bennet|f
+891|2005|3|464|North Country|Josey Aimes|f
+892|2005|3|465|Walk the Line|June Carter|t
+893|2004|3|441|Being Julia|Julia Lambert|f
+894|2004|3|466|Maria Full of Grace|Maria|f
+895|2004|3|467|Vera Drake|Vera|f
+896|2004|3|468|Million Dollar Baby|Maggie Fitzgerald|t
+897|2004|3|454|Eternal Sunshine of the Spotless Mind|Clementine Kruczynski|f
+898|2003|3|469|Whale Rider|Paikea|f
+899|2003|3|470|Something's Gotta Give|Erica Barry|f
+900|2003|3|471|In America|Sarah|f
+901|2003|3|464|Monster|Aileen Wuornos|t
+902|2003|3|472|21 Grams|Cristina Peck|f
+903|2002|3|473|Frida|Frida Kahlo|f
+904|2002|3|442|The Hours|Virginia Woolf|t
+905|2002|3|474|Unfaithful|Connie Sumner|f
+906|2002|3|475|Far from Heaven|Cathy Whitaker|f
+907|2002|3|476|Chicago|Roxie Hart|f
+908|2001|3|477|Monster's Ball|Leticia Musgrove|t
+909|2001|3|461|Iris|Iris Murdoch|f
+910|2001|3|442|Moulin Rouge|Satine|f
+911|2001|3|478|In the Bedroom|Ruth Fowler|f
+912|2001|3|476|Bridget Jones's Diary|Bridget Jones|f
+913|2000|3|479|The Contender|Laine Hanson|f
+914|2000|3|480|Chocolat|Vianne Rocher|f
+915|2000|3|481|Requiem for a Dream|Sara Goldfarb|f
+916|2000|3|458|You Can Count on Me|Samantha 'Sammy' Prescott|f
+917|2000|3|482|Erin Brockovich|Erin Brockovich|t
+918|1999|3|441|American Beauty|Carolyn Burnham|f
+919|1999|3|483|Tumbleweeds|Mary Jo Walker|f
+920|1999|3|475|The End of the Affair|Sarah Miles|f
+921|1999|3|450|Music of the Heart|Roberta Guaspari|f
+922|1999|3|468|Boys Don't Cry|Brandon Teena/Teena Brandon|t
+923|1998|3|455|Elizabeth|Queen Elizabeth I|f
+924|1998|3|484|Central Station|Dora|f
+925|1998|3|485|Shakespeare in Love|Viola De Lesseps|t
+926|1998|3|450|One True Thing|Kate Gulden|f
+927|1998|3|486|Hilary and Jackie|Jacqueline du Pr√©|f
+928|1997|3|487|The Wings of the Dove|Kate Croy|f
+929|1997|3|456|Afterglow|Phyllis Mann|f
+930|1997|3|461|Mrs. Brown|Queen Victoria|f
+931|1997|3|488|As Good as It Gets|Carol Connelly|t
+932|1997|3|454|Titanic|Rose DeWitt Bukater|f
+933|1996|3|489|Secrets & Lies|Cynthia|f
+934|1996|3|470|Marvin's Room|Bessie|f
+935|1996|3|490|Fargo|Marge Gunderson|t
+936|1996|3|491|The English Patient|Katharine Clifton|f
+937|1996|3|486|Breaking the Waves|Bess|f
+938|1995|3|492|Dead Man Walking|Sister Helen Prejean|t
+939|1995|3|493|Leaving Las Vegas|Sera|f
+940|1995|3|494|Casino|Ginger McKenna|f
+941|1995|3|450|The Bridges of Madison County|Francesca Johnson|f
+942|1995|3|495|Sense and Sensibility|Elinor Dashwood|f
+943|1994|3|496|Nell|Nell|f
+944|1994|3|497|Blue Sky|Carly Marshall|t
+945|1994|3|498|Tom & Viv|Viv|f
+946|1994|3|499|Little Women|Jo March|f
+947|1994|3|492|The Client|Reggie Love|f
+948|1993|3|500|What's Love Got to Do with It|Tina Turner|f
+949|1993|3|501|Six Degrees of Separation|Ouisa Kittredge|f
+950|1993|3|502|The Piano|Ada|t
+951|1993|3|495|The Remains of the Day|Miss Kenton|f
+952|1993|3|503|Shadowlands|Joy Gresham|f
+953|1992|3|504|Indochine|Eliane|f
+954|1992|3|505|Passion Fish|May-Alice|f
+955|1992|3|506|Love Field|Lurene Hallett|f
+956|1992|3|492|Lorenzo's Oil|Michaela Odone|f
+957|1992|3|495|Howards End|Margaret Schlegel|t
+958|1991|3|507|Thelma & Louise|Thelma|f
+959|1991|3|508|Rambling Rose|Rose|f
+960|1991|3|496|The Silence of the Lambs|Clarice Starling|t
+961|1991|3|509|For the Boys|Dixie Leonard|f
+962|1991|3|492|Thelma & Louise|Louise|f
+963|1990|3|510|Misery|Annie Wilkes|t
+964|1990|3|511|The Grifters|Lilly Dillon|f
+965|1990|3|482|Pretty Woman|Vivian Ward|f
+966|1990|3|450|Postcards from the Edge|Suzanne Vale|f
+967|1990|3|512|Mr. & Mrs. Bridge|India Bridge|f
+968|1989|3|513|Camille Claudel|Camille Claudel|f
+969|1989|3|514|Shirley Valentine|Shirley Valentine|f
+970|1989|3|497|Music Box|Ann Talbot|f
+971|1989|3|506|The Fabulous Baker Boys|Susie Diamond|f
+972|1989|3|515|Driving Miss Daisy|Daisy Werthan|t
+973|1988|3|516|Dangerous Liaisons|Marquise de Merteuil|f
+974|1988|3|496|The Accused|Sarah Tobias|t
+975|1988|3|517|Working Girl|Tess McGill|f
+976|1988|3|450|A Cry in the Dark|Lindy|f
+977|1988|3|518|Gorillas in the Mist|Dian Fossey|f
+978|1987|3|519|Moonstruck|Loretta Castorini|t
+979|1987|3|516|Fatal Attraction|Alex Forrest|f
+980|1987|3|502|Broadcast News|Jane Craig|f
+981|1987|3|520|Anna|Anna|f
+982|1987|3|450|Ironweed|Helen|f
+983|1986|3|521|The Morning After|Alex Sternbergen|f
+984|1986|3|522|Children of a Lesser God|Sarah|t
+985|1986|3|478|Crimes of the Heart|Babe Magrath|f
+986|1986|3|523|Peggy Sue Got Married|Peggy Sue|f
+987|1986|3|518|Aliens|Ripley|f
+988|1985|3|524|Agnes of God|Sister Miriam Ruth|f
+989|1985|3|525|The Color Purple|Celie|f
+990|1985|3|497|Sweet Dreams|Patsy Cline|f
+991|1985|3|526|The Trip to Bountiful|Mrs. Watts|t
+992|1985|3|450|Out of Africa|Karen|f
+993|1984|3|527|A Passage to India|Adela Quested|f
+994|1984|3|528|Places in the Heart|Edna Spalding|t
+995|1984|3|497|Country|Jewell Ivy|f
+996|1984|3|529|The Bostonians|Olive Chancellor|f
+997|1984|3|478|The River|Mae Garvey|f
+998|1983|3|530|Testament|Carol Wetherly|f
+999|1983|3|531|Terms of Endearment|Aurora Greenway|t
+1000|1983|3|450|Silkwood|Karen Silkwood|f
+1001|1983|3|532|Educating Rita|Rita|f
+1002|1983|3|503|Terms of Endearment|Emma Horton|f
+1003|1982|3|533|Victor/Victoria|Victor/Victoria|f
+1004|1982|3|497|Frances|Frances Farmer|f
+1005|1982|3|478|Missing|Beth Horman|f
+1006|1982|3|450|Sophie's Choice|Sophie|t
+1007|1982|3|503|An Officer and a Gentleman|Paula Pokrifki|f
+1008|1981|3|534|On Golden Pond|Ethel Thayer|t
+1009|1981|3|470|Reds|Louise Bryant|f
+1010|1981|3|535|Only When I Laugh|Georgia|f
+1011|1981|3|492|Atlantic City|Sally|f
+1012|1981|3|450|The French Lieutenant's Woman|Sara Woodruff/Anna|f
+1013|1980|3|481|Resurrection|Edna May|f
+1014|1980|3|536|Private Benjamin|Judy Benjamin|f
+1015|1980|3|537|Ordinary People|Beth Jarrett|f
+1016|1980|3|538|Gloria|Gloria Swenson|f
+1017|1980|3|478|Coal Miner's Daughter|Loretta Lynn|t
+1018|1979|3|539|Starting Over|Marilyn Homberg|f
+1019|1979|3|528|Norma Rae|Norma Rae|t
+1020|1979|3|521|The China Syndrome|Kimberly Wells|f
+1021|1979|3|535|Chapter Two|Jennie MacLaine|f
+1022|1979|3|509|The Rose|Rose|f
+1023|1978|3|540|Autumn Sonata|Charlotte Andergast|f
+1024|1978|3|481|Same Time, Next Year|Doris|f
+1025|1978|3|539|An Unmarried Woman|Erica|f
+1026|1978|3|521|Coming Home|Sally Hyde|t
+1027|1978|3|526|Interiors|Eve|f
+1028|1977|3|524|The Turning Point|Emma Jacklin|f
+1029|1977|3|521|Julia|Lillian Hellman|f
+1030|1977|3|470|Annie Hall|Annie Hall|t
+1031|1977|3|531|The Turning Point|Deedee Rodgers|f
+1032|1977|3|535|The Goodbye Girl|Paula McFadden|f
+1033|1976|3|541|Cousin, Cousine|Marthe|f
+1034|1976|3|542|Network|Diana Christensen|t
+1035|1976|3|543|Rocky|Adrian|f
+1036|1976|3|478|Carrie|Carrie White|f
+1037|1976|3|544|Face to Face|Dr. Jenny Isaksson|f
+1038|1975|3|513|The Story of Adele H.|Adele Hugo|f
+1039|1975|3|545|Tommy|Nora Walker Hobbs|f
+1040|1975|3|546|One Flew over the Cuckoo's Nest|Nurse Mildred Ratched|t
+1041|1975|3|547|Hedda|Hedda Gabler|f
+1042|1975|3|548|Hester Street|Gitl|f
+1043|1974|3|481|Alice Doesn't Live Here Anymore|Alice Hyatt|t
+1044|1974|3|549|Claudine|Claudine|f
+1045|1974|3|542|Chinatown|Evelyn Cross Mulwray|f
+1046|1974|3|550|Lenny|Honey Bruce|f
+1047|1974|3|538|A Woman under the Influence|Mabel Longhetti|f
+1048|1973|3|481|The Exorcist|Chris MacNeil|f
+1049|1973|3|547|A Touch of Class|Vicki Allessio|t
+1050|1973|3|535|Cinderella Liberty|Maggie Paul|f
+1051|1973|3|551|The Way We Were|Katie Morosky|f
+1052|1973|3|512|Summer Wishes, Winter Dreams|Rita Walden|f
+1053|1972|3|552|Cabaret|Sally Bowles|t
+1054|1972|3|553|Lady Sings the Blues|Billie Holiday|f
+1055|1972|3|554|Travels with My Aunt|Aunt Augusta|f
+1056|1972|3|555|Sounder|Rebecca Morgan|f
+1057|1972|3|544|The Emigrants|Kristina|f
+1058|1971|3|456|McCabe & Mrs. Miller|Mrs. Constance Miller|f
+1059|1971|3|521|Klute|Bree Daniel|t
+1060|1971|3|547|Sunday Bloody Sunday|Alex Greville|f
+1061|1971|3|529|Mary, Queen of Scots|Mary, Queen of Scots|f
+1062|1971|3|556|Nicholas and Alexandra|Alexandra|f
+1063|1970|3|530|The Great White Hope|Eleanor Bachman|f
+1064|1970|3|547|Women in Love|Gudrun Brangwen|t
+1065|1970|3|557|Love Story|Jenny Cavilleri|f
+1066|1970|3|558|Ryan's Daughter|Rosy Ryan|f
+1067|1970|3|559|Diary of a Mad Housewife|Tina Balser|f
+1068|1969|3|560|Anne of the Thousand Days|Anne Boleyn|f
+1069|1969|3|521|They Shoot Horses, Don't They?|Gloria Beatty|f
+1070|1969|3|552|The Sterile Cuckoo|Pookie Adams|f
+1071|1969|3|561|The Happy Ending|Mary Wilson|f
+1072|1969|3|554|The Prime of Miss Jean Brodie|Miss Jean Brodie|t
+1073|1968|3|534|The Lion in Winter|Queen Eleanor of Aquitaine|t
+1074|1968|3|562|The Subject Was Roses|Nettie Cleary|f
+1075|1968|3|529|Isadora|Isadora Duncan|f
+1076|1968|3|551|Funny Girl|Fanny Brice|t
+1077|1968|3|512|Rachel, Rachel|Rachel Cameron|f
+1078|1967|3|524|The Graduate|Mrs. Robinson|f
+1079|1967|3|542|Bonnie and Clyde|Bonnie Parker|f
+1080|1967|3|563|The Whisperers|Mrs. Ross|f
+1081|1967|3|564|Wait until Dark|Susy Hendrix|f
+1082|1967|3|534|Guess Who's Coming to Dinner|Christina Drayton|t
+1083|1966|3|565|A Man and a Woman|Anne Gauthier|f
+1084|1966|3|566|The Shop on Main Street|Rozalie Lautmanova|f
+1085|1966|3|567|Georgy Girl|Georgy Parkin|f
+1086|1966|3|529|Morgan!|Leonie Delt|f
+1087|1966|3|568|Who's Afraid of Virginia Woolf?|Martha|t
+1088|1965|3|533|The Sound of Music|Maria|f
+1089|1965|3|456|Darling|Diana Scott|t
+1090|1965|3|569|The Collector|Miranda Grey|f
+1091|1965|3|570|A Patch of Blue|Selina D'Arcey|f
+1092|1965|3|571|Ship of Fools|La Condessa|f
+1093|1964|3|533|Mary Poppins|Mary Poppins|t
+1094|1964|3|524|The Pumpkin Eater|Jo Armitage|f
+1095|1964|3|572|Marriage Italian Style|Filomena Marturano|f
+1096|1964|3|573|The Unsinkable Molly Brown|Molly Brown|f
+1097|1964|3|574|Seance on a Wet Afternoon|Myra Savage|f
+1098|1963|3|575|The L-Shaped Room|Jane|f
+1099|1963|3|531|Irma La Douce|Irma La Douce|f
+1100|1963|3|562|Hud|Alma|t
+1101|1963|3|576|This Sporting Life|Mrs. Hammond|f
+1102|1963|3|577|Love with the Proper Stranger|Angie|f
+1103|1962|3|524|The Miracle Worker|Annie Sullivan|t
+1104|1962|3|578|What Ever Happened to Baby Jane?|Jane Hudson|f
+1105|1962|3|534|Long Day's Journey into Night|Mary Tyrone|f
+1106|1962|3|526|Sweet Bird of Youth|Alexandra Del Lago|f
+1107|1962|3|579|Days of Wine and Roses|Kirsten Arnesen|f
+1108|1961|3|564|Breakfast at Tiffany's|Holly Golightly|f
+1109|1961|3|580|The Hustler|Sarah Packard|f
+1110|1961|3|572|Two Women|Cesira|t
+1111|1961|3|526|Summer and Smoke|Alma Winemiller|f
+1112|1961|3|577|Splendor in the Grass|Wilma Dean Loomis|f
+1113|1960|3|581|Sunrise at Campobello|Eleanor Roosevelt|f
+1114|1960|3|582|The Sundowners|Ida Carmody|f
+1115|1960|3|531|The Apartment|Fran Kubelik|f
+1116|1960|3|583|Never on Sunday|Ilya|f
+1117|1960|3|568|Butterfield 8|Gloria Wandrous|t
+1118|1959|3|584|Pillow Talk|Jan Morrow|f
+1119|1959|3|564|The Nun's Story|Sister Luke|f
+1120|1959|3|534|Suddenly, Last Summer|Mrs. Venable|f
+1121|1959|3|571|Room at the Top|Alice Aisgill|t
+1122|1959|3|568|Suddenly, Last Summer|Catherine Holly|f
+1123|1958|3|585|I Want to Live!|Barbara Graham|t
+1124|1958|3|582|Separate Tables|Sibyl Railton-Bell|f
+1125|1958|3|531|Some Came Running|Ginny Moorhead|f
+1126|1958|3|586|Auntie Mame|Auntie Mame Dennis|f
+1127|1958|3|568|Cat on a Hot Tin Roof|Maggie Pollitt|f
+1128|1957|3|582|Heaven Knows, Mr. Allison|Sister Angela|f
+1129|1957|3|587|Wild Is the Wind|Gioia|f
+1130|1957|3|568|Raintree County|Susanna Drake|f
+1131|1957|3|588|Peyton Place|Constance MacKenzie|f
+1132|1957|3|512|The Three Faces of Eve|Eve White/Eve Black/Jane|t
+1133|1956|3|589|Baby Doll|Baby Doll|f
+1134|1956|3|540|Anastasia|The Woman|t
+1135|1956|3|534|The Rainmaker|Lizzie Curry|f
+1136|1956|3|590|The Bad Seed|Christine Penmark|f
+1137|1956|3|582|The King and I|Anna|f
+1138|1955|3|585|I'll Cry Tomorrow|Lillian Roth|f
+1139|1955|3|534|Summertime|Jane Hudson|f
+1140|1955|3|591|Love Is a Many-Splendored Thing|Han Suyin|f
+1141|1955|3|587|The Rose Tattoo|Serafina Della Rose|t
+1142|1955|3|592|Interrupted Melody|Marjorie Lawrence|f
+1143|1954|3|593|Carmen Jones|Carmen Jones|f
+1144|1954|3|594|A Star Is Born|Esther Blodgett/Vicki Lester|f
+1145|1954|3|564|Sabrina|Sabrina Fairchild|f
+1146|1954|3|595|The Country Girl|Georgie Elgin|t
+1147|1954|3|596|Magnificent Obsession|Helen Phillips|f
+1148|1953|3|575|Lili|Lili Daurier|f
+1149|1953|3|597|Mogambo|Eloise 'Honey Bear' Kelly|f
+1150|1953|3|564|Roman Holiday|Princess Anne|t
+1151|1953|3|582|From Here to Eternity|Karen Holmes|f
+1152|1953|3|598|The Moon Is Blue|Patty O'Neill|f
+1153|1952|3|599|Come Back, Little Sheba|Lola Delaney|t
+1154|1952|3|600|Sudden Fear|Myra Hudson|f
+1155|1952|3|578|The Star|Margaret Elliot|f
+1156|1952|3|601|The Member of the Wedding|Frankie Addams|f
+1157|1952|3|585|With a Song in My Heart|Jane Froman|f
+1158|1951|3|534|The African Queen|Rose Sayer|f
+1159|1951|3|602|A Streetcar Named Desire|Blanche DuBois|t
+1160|1951|3|592|Detective Story|Mary McLeod|f
+1161|1951|3|603|A Place in the Sun|Alice Tripp|f
+1162|1951|3|596|The Blue Veil|Louise Mason|f
+1163|1950|3|604|All about Eve|Eve Harrington|f
+1164|1950|3|578|All about Eve|Margo Channing|f
+1165|1950|3|605|Born Yesterday|Billie Dawn|t
+1166|1950|3|592|Caged|Marie Allen|f
+1167|1950|3|606|Sunset Blvd.|Norma Desmond|f
+1168|1949|3|607|Pinky|Pinky|f
+1169|1949|3|608|The Heiress|Catherine Sloper|t
+1170|1949|3|585|My Foolish Heart|Eloise Winters|f
+1171|1949|3|582|Edward, My Son|Evelyn Boult|f
+1172|1949|3|609|Come to the Stable|Sister Margaret|f
+1173|1948|3|540|Joan of Arc|Joan of Arc|f
+1174|1948|3|608|The Snake Pit|Virginia Stuart Cunningham|f
+1175|1948|3|610|I Remember Mama|Mama|f
+1176|1948|3|611|Sorry, Wrong Number|Leona Stevenson|f
+1177|1948|3|596|Johnny Belinda|Belinda McDonald|t
+1178|1947|3|600|Possessed|Louise Howell|f
+1179|1947|3|585|Smash-Up--The Story of a Woman|Angie|f
+1180|1947|3|612|Gentleman's Agreement|Kathy|f
+1181|1947|3|586|Mourning Becomes Electra|Lavinia Mannon|f
+1182|1947|3|609|The Farmer's Daughter|Katrin Holstrom|t
+1183|1946|3|608|To Each His Own|Jody Norris|t
+1184|1946|3|613|Brief Encounter|Laura Jesson|f
+1185|1946|3|591|Duel in the Sun|Pearl Chavez|f
+1186|1946|3|586|Sister Kenny|Elizabeth Kenny|f
+1187|1946|3|596|The Yearling|Ma Baxter|f
+1188|1945|3|540|The Bells of St. Mary's|Sister Benedict|f
+1189|1945|3|600|Mildred Pierce|Mildred Pierce|t
+1190|1945|3|581|The Valley of Decision|Mary Rafferty|f
+1191|1945|3|591|Love Letters|Singleton|f
+1192|1945|3|614|Leave Her to Heaven|Ellen Berent|f
+1193|1944|3|540|Gaslight|Paula Alquist|t
+1194|1944|3|615|Since You Went Away|Anne Hilton|f
+1195|1944|3|578|Mr. Skeffington|Fanny Trellis Skeffington|f
+1196|1944|3|581|Mrs. Parkington|Susie Parkington|f
+1197|1944|3|611|Double Indemnity|Phyllis Dietrichson|f
+1198|1943|3|616|The More the Merrier|Connie Milligan|f
+1199|1943|3|540|For Whom the Bell Tolls|Maria|f
+1200|1943|3|617|The Constant Nymph|Teresa 'Tessa' Sanger|f
+1201|1943|3|581|Madame Curie|Madame Marie Curie|f
+1202|1943|3|591|The Song of Bernadette|Bernadette Soubirous|t
+1203|1942|3|578|Now, Voyager|Charlotte Vale|f
+1204|1942|3|581|Mrs. Miniver|Kay Miniver|t
+1205|1942|3|534|Woman of the Year|Tess Harding|f
+1206|1942|3|586|My Sister Eileen|Ruth Sherwood|f
+1207|1942|3|618|The Pride of the Yankees|Eleanor Gehrig|f
+1208|1941|3|578|The Little Foxes|Regina Hubbard Giddens|f
+1209|1941|3|608|Hold Back the Dawn|Emmy Brown|f
+1210|1941|3|617|Suspicion|Lina McLaidlaw|t
+1211|1941|3|581|Blossoms in the Dust|Edna Gladney|f
+1212|1941|3|611|Ball of Fire|Sugarpuss O'Shea|f
+1213|1940|3|578|The Letter|Leslie Crosbie|f
+1214|1940|3|617|Rebecca|Mrs. de Winter|f
+1215|1940|3|534|The Philadelphia Story|Tracy Lord|f
+1216|1940|3|619|Kitty Foyle|Kitty Foyle|t
+1217|1940|3|620|Our Town|Emily Webb|f
+1218|1939|3|578|Dark Victory|Judith Traherne|f
+1219|1939|3|610|Love Affair|Terry McKay|f
+1220|1939|3|621|Ninotchka|Lena Yakushova (Ninotchka)|f
+1221|1939|3|581|Goodbye, Mr. Chips|Katherine Chipping|f
+1222|1939|3|602|Gone with the Wind|Scarlett O'Hara|t
+1223|1938|3|622|White Banners|Hannah|f
+1224|1938|3|578|Jezebel|Julie Morrison|t
+1225|1938|3|623|Pygmalion|Eliza Doolittle|f
+1226|1938|3|624|Marie Antoinette|Marie Antoinette|f
+1227|1938|3|625|Three Comrades|Pat Hollmann|f
+1228|1937|3|610|The Awful Truth|Lucy Warriner|f
+1229|1937|3|621|Camille|Marguerite Gautier (Camille)|f
+1230|1937|3|626|A Star Is Born|Esther Blodgett/Vicki Lester|f
+1231|1937|3|627|The Good Earth|O-Lan|t
+1232|1937|3|611|Stella Dallas|Stella Dallas|f
+1233|1936|3|610|Theodora Goes Wild|Theodora Lynn|f
+1234|1936|3|628|Valiant Is the Word for Carrie|Carrie Snyder|f
+1235|1936|3|629|My Man Godfrey|Irene Bullock|f
+1236|1936|3|627|The Great Ziegfeld|Anna Held|t
+1237|1936|3|624|Romeo and Juliet|Juliet|f
+1238|1935|3|630|Escape Me Never|Gemma Jones|f
+1239|1935|3|615|Private Worlds|Jane Everest|f
+1240|1935|3|578|Dangerous|Joyce Heath|t
+1241|1935|3|534|Alice Adams|Alice Adams|f
+1242|1935|3|631|Becky Sharp|Becky Sharp|f
+1243|1935|3|632|The Dark Angel|Kitty Vane|f
+1244|1934|3|615|It Happened One Night|Ellie Andrews|t
+1245|1934|3|578|Of Human Bondage|Mildred|f
+1246|1934|3|633|One Night of Love|Mary|f
+1247|1934|3|624|The Barretts of Wimpole Street|Elizabeth Barrett|f
+1248|1932|3|534|Morning Glory|Eva Lovelace|t
+1249|1932|3|634|Lady for a Day|Apple Annie|f
+1250|1932|3|635|Cavalcade|Jane Marryot|f
+1251|1931|3|636|Emma|Emma|f
+1252|1931|3|637|The Guardsman|The Actress|f
+1253|1931|3|638|The Sin of Madelon Claudet|Madelon|t
+1254|1930|3|639|Morocco|Amy Jolly|f
+1255|1930|3|636|Min and Bill|Min|t
+1256|1930|3|610|Cimarron|Sabra Cravat|f
+1257|1930|3|640|Holiday|Linda Seton|f
+1258|1930|3|624|A Free Soul|Jan Ashe|f
+1259|1929|3|641|The Devil's Holiday|Hallie Hobart|f
+1260|1929|3|642|Sarah and Son|Sarah Storm|f
+1261|1929|3|621|Anna Christie|Anna Christie|f
+1262|1929|3|624|The Divorcee|Jerry|t
+1263|1929|3|624|Their Own Desire|Lucia 'Lally' Marlett|f
+1264|1929|3|606|The Trespasser|Marion Donnell|f
+1265|1928|3|642|Madame X|Jacqueline Floriot|f
+1266|1928|3|643|The Barker|Carrie|f
+1267|1928|3|644|The Letter|Leslie Crosbie|f
+1268|1928|3|645|The Divine Lady|Emma Hart, Lady Hamilton|f
+1269|1928|3|646|The Broadway Melody|Hank Mahoney|f
+1270|1928|3|647|Coquette|Norma Besant|t
+1271|1927|3|648|A Ship Comes In|Mrs. Pleznik|f
+1272|1927|3|626|7th Heaven|Diane|t
+1273|1927|3|606|Sadie Thompson|Sadie Thompson|f
+1274|2010|4|649|The Fighter|Charlene Fleming|f
+1275|2010|4|487|The King's Speech|Queen Elizabeth|f
+1276|2010|4|453|The Fighter|Alice Ward|t
+1277|2010|4|650|True Grit|Mattie Ross|f
+1278|2010|4|651|Animal Kingdom|Janine 'Smurf' Cody|f
+1279|2009|4|460|Nine|Carla|f
+1280|2009|4|652|Up in the Air|Alex Goran|f
+1281|2009|4|653|Crazy Heart|Jean Craddock|f
+1282|2009|4|654|Up in the Air|Natalie Keener|f
+1283|2009|4|655|Precious: Based on the Novel 'Push' by Sapphire|Mary|t
+1284|2008|4|649|Doubt|Sister James|f
+1285|2008|4|460|Vicky Cristina Barcelona|Maria Elena|t
+1286|2008|4|656|Doubt|Mrs. Miller|f
+1287|2008|4|657|The Curious Case of Benjamin Button|Queenie|f
+1288|2008|4|658|The Wrestler|Cassidy|f
+1289|2007|4|455|I'm Not There|Jude|f
+1290|2007|4|659|American Gangster|Mama Lucas|f
+1291|2007|4|660|Atonement|Briony Tallis, aged 13|f
+1292|2007|4|661|Gone Baby Gone|Helene McCready|f
+1293|2007|4|662|Michael Clayton|Karen Crowder|t
+1294|2006|4|663|Babel|Amelia|f
+1295|2006|4|455|Notes on a Scandal|Sheba Hart|f
+1296|2006|4|664|Little Miss Sunshine|Olive|f
+1297|2006|4|665|Dreamgirls|Effie White|t
+1298|2006|4|666|Babel|Chieko|f
+1299|2005|4|649|Junebug|Ashley|f
+1300|2005|4|667|Capote|Nelle Harper Lee|f
+1301|2005|4|490|North Country|Glory|f
+1302|2005|4|668|The Constant Gardener|Tessa Quayle|t
+1303|2005|4|445|Brokeback Mountain|Alma|f
+1304|2004|4|455|The Aviator|Katharine Hepburn|t
+1305|2004|4|458|Kinsey|Clara McMillen|f
+1306|2004|4|669|Sideways|Maya|f
+1307|2004|4|670|Hotel Rwanda|Tatiana Rusesabagina|f
+1308|2004|4|444|Closer|Alice|f
+1309|2003|4|671|House of Sand and Fog|Nadi|f
+1310|2003|4|672|Pieces of April|Joy Burns|f
+1311|2003|4|673|Mystic River|Celeste Boyle|f
+1312|2003|4|502|Thirteen|Melanie|f
+1313|2003|4|476|Cold Mountain|Ruby Thewes|t
+1314|2002|4|510|About Schmidt|Roberta Hertzel|f
+1315|2002|4|475|The Hours|Laura Brown|f
+1316|2002|4|674|Chicago|Matron Mama Morton|f
+1317|2002|4|450|Adaptation|Susan Orlean|f
+1318|2002|4|675|Chicago|Velma Kelly|t
+1319|2001|4|676|A Beautiful Mind|Alicia Nash|t
+1320|2001|4|447|Gosford Park|Mrs. Wilson|f
+1321|2001|4|554|Gosford Park|Constance, Countess of Trentham|f
+1322|2001|4|658|In the Bedroom|Natalie Strout|f
+1323|2001|4|454|Iris|Young Iris Murdoch|f
+1324|2000|4|461|Chocolat|Armande Voizin|f
+1325|2000|4|673|Pollock|Lee Krasner|t
+1326|2000|4|677|Almost Famous|Penny Lane|f
+1327|2000|4|490|Almost Famous|Elaine Miller|f
+1328|2000|4|532|Billy Elliot|Mrs. Wilkinson|f
+1329|1999|4|678|The Sixth Sense|Lynn Sear|f
+1330|1999|4|452|Girl, Interrupted|Lisa Rowe|t
+1331|1999|4|667|Being John Malkovich|Maxine|f
+1332|1999|4|471|Sweet and Lowdown|Hattie|f
+1333|1999|4|679|Boys Don't Cry|Lana Tisdel|f
+1334|1998|4|510|Primary Colors|Libby|f
+1335|1998|4|489|Little Voice|Mari|f
+1336|1998|4|461|Shakespeare in Love|Queen Elizabeth I|t
+1337|1998|4|680|Hilary and Jackie|Hilary du Pr√©|f
+1338|1998|4|567|Gods and Monsters|Hanna|f
+1339|1997|4|681|L.A. Confidential|Lynn Bracken|t
+1340|1997|4|682|In & Out|Emily Montgomery|f
+1341|1997|4|683|Good Will Hunting|Skylar|f
+1342|1997|4|475|Boogie Nights|Amber Waves|f
+1343|1997|4|684|Titanic|Old Rose|f
+1344|1996|4|479|The Crucible|Elizabeth Proctor|f
+1345|1996|4|685|The Mirror Has Two Faces|Hannah Morgan|f
+1346|1996|4|480|The English Patient|Hana|t
+1347|1996|4|686|The Portrait of a Lady|Madame Serena Merle|f
+1348|1996|4|687|Secrets & Lies|Hortense|f
+1349|1995|4|479|Nixon|Pat Nixon|f
+1350|1995|4|688|Apollo 13|Marilyn Lovell|f
+1351|1995|4|689|Mighty Aphrodite|Linda|t
+1352|1995|4|690|Georgia|Georgia|f
+1353|1995|4|454|Sense and Sensibility|Marianne Dashwood|f
+1354|1994|4|691|Tom & Viv|Rose Haigh-Wood|f
+1355|1994|4|447|The Madness of King George|Queen Charlotte|f
+1356|1994|4|692|Pulp Fiction|Mia|f
+1357|1994|4|693|Bullets over Broadway|Olive Neal|f
+1358|1994|4|694|Bullets over Broadway|Helen Sinclair|t
+1359|1993|4|502|The Firm|Tammy Hemphill|f
+1360|1993|4|695|The Piano|Flora|t
+1361|1993|4|696|Fearless|Carla Rodrigo|f
+1362|1993|4|499|The Age of Innocence|May Welland|f
+1363|1993|4|495|In the Name of the Father|Gareth Peirce|f
+1364|1992|4|527|Husbands and Wives|Sally|f
+1365|1992|4|697|Enchanted April|Mrs. Fisher|f
+1366|1992|4|529|Howards End|Ruth Wilcox|f
+1367|1992|4|498|Damage|Ingrid|f
+1368|1992|4|658|My Cousin Vinny|Mona Lisa Vito|t
+1369|1991|4|698|Rambling Rose|Mother|f
+1370|1991|4|699|Cape Fear|Danielle Bowden|f
+1371|1991|4|700|The Prince of Tides|Lila Wingo Newbury|f
+1372|1991|4|701|The Fisher King|Anne|t
+1373|1991|4|515|Fried Green Tomatoes|Ninny Threadgoode|f
+1374|1990|4|441|The Grifters|Myra Langtry|f
+1375|1990|4|702|Good Fellas|Karen Hill|f
+1376|1990|4|525|Ghost|Oda Mae Brown|t
+1377|1990|4|698|Wild at Heart|Marietta Fortune|f
+1378|1990|4|505|Dances With Wolves|Stands With A Fist|f
+1379|1989|4|703|My Left Foot|Mrs. Brown|t
+1380|1989|4|511|Enemies, A Love Story|Tamara|f
+1381|1989|4|704|Enemies, A Love Story|Masha|f
+1382|1989|4|482|Steel Magnolias|Shelby Eatenton|f
+1383|1989|4|694|Parenthood|Helen|f
+1384|1988|4|682|Working Girl|Cyn|f
+1385|1988|4|507|The Accidental Tourist|Muriel|t
+1386|1988|4|490|Mississippi Burning|Mrs. Pell|f
+1387|1988|4|506|Dangerous Liaisons|Madame de Tourvel|f
+1388|1988|4|518|Working Girl|Katharine Parker|f
+1389|1987|4|705|Gaby - A True Story|Florencia|f
+1390|1987|4|706|Fatal Attraction|Beth Gallagher|f
+1391|1987|4|707|Moonstruck|Rose Castorini|t
+1392|1987|4|708|Throw Momma from the Train|Momma|f
+1393|1987|4|709|The Whales of August|Tisha Doughty|f
+1394|1986|4|710|Crimes of the Heart|Chick Boyle|f
+1395|1986|4|580|Children of a Lesser God|Mrs. Norman|f
+1396|1986|4|711|The Color of Money|Carmen|f
+1397|1986|4|554|A Room with a View|Charlotte Bartlett|f
+1398|1986|4|694|Hannah and Her Sisters|Holly|t
+1399|1985|4|712|The Color Purple|Shug Avery|f
+1400|1985|4|511|Prizzi's Honor|Maerose Prizzi|t
+1401|1985|4|713|Twice in a Lifetime|Sunny Sobel|f
+1402|1985|4|714|Agnes of God|Sister Agnes|f
+1403|1985|4|715|The Color Purple|Sofia|f
+1404|1984|4|716|A Passage to India|Mrs. Moore|t
+1405|1984|4|516|The Natural|Iris|f
+1406|1984|4|717|Places in the Heart|Margaret Lomax|f
+1407|1984|4|718|Swing Shift|Hazel Zanussi|f
+1408|1984|4|526|The Pope of Greenwich Village|Mrs. Ritter|f
+1409|1983|4|519|Silkwood|Dolly Pelliker|f
+1410|1983|4|516|The Big Chill|Sarah|f
+1411|1983|4|719|The Year of Living Dangerously|Billy Kwan|t
+1412|1983|4|720|Yentl|Hadaas|f
+1413|1983|4|721|Cross Creek|Geechee|f
+1414|1982|4|516|The World According to Garp|Jenny Fields|f
+1415|1982|4|722|Tootsie|Sandy Lester|f
+1416|1982|4|497|Tootsie|Julie Nichols|t
+1417|1982|4|574|Frances|Lillian Farmer|f
+1418|1982|4|723|Victor/Victoria|Norma|f
+1419|1981|4|724|Absence of Malice|Teresa|f
+1420|1981|4|521|On Golden Pond|Chelsea Thayer Wayne|f
+1421|1981|4|725|Only When I Laugh|Toby Landau|f
+1422|1981|4|726|Ragtime|Evelyn Nesbit|f
+1423|1981|4|727|Reds|Emma Goldman|t
+1424|1980|4|728|Private Benjamin|Captain Doreen Lewis|f
+1425|1980|4|729|Resurrection|Grandma Pearl|f
+1426|1980|4|730|Raging Bull|Vicki LaMotta|f
+1427|1980|4|731|Inside Moves|Louise|f
+1428|1980|4|732|Melvin and Howard|Lynda Dummar|t
+1429|1979|4|530|Kramer vs. Kramer|Margaret Phelps|f
+1430|1979|4|733|Breaking Away|Mrs. Stohler|f
+1431|1979|4|734|Starting Over|Jessica Potter|f
+1432|1979|4|735|Manhattan|Tracy|f
+1433|1979|4|450|Kramer vs. Kramer|Joanna Kramer|t
+1434|1978|4|736|Heaven Can Wait|Julia Farnsworth|f
+1435|1978|4|737|Coming Home|Viola Munson|f
+1436|1978|4|554|California Suite|Diana Barrie|t
+1437|1978|4|727|Interiors|Pearl|f
+1438|1978|4|450|The Deer Hunter|Linda|f
+1439|1977|4|738|The Turning Point|Emilia Rodgers|f
+1440|1977|4|739|The Goodbye Girl|Lucy McFadden|f
+1441|1977|4|724|Close Encounters of the Third Kind|Jillian Guiler|f
+1442|1977|4|529|Julia|Julia|t
+1443|1977|4|740|Looking for Mr. Goodbar|Katherine Dunn|f
+1444|1976|4|530|All the President's Men|The Bookkeeper|f
+1445|1976|4|496|Taxi Driver|Iris|f
+1446|1976|4|741|Voyage of the Damned|Lilian Rosen|f
+1447|1976|4|580|Carrie|Margaret White|f
+1448|1976|4|742|Network|Louise Schumacher|t
+1449|1975|4|743|Nashville|Barbara Jean|f
+1450|1975|4|741|Shampoo|Felicia Karpf|t
+1451|1975|4|744|Farewell, My Lovely|Mrs. Florian|f
+1452|1975|4|745|Nashville|Linnea Reese|f
+1453|1975|4|746|Jacqueline Susann's Once Is Not Enough|Linda|f
+1454|1974|4|540|Murder on the Orient Express|Greta Ohlsson|t
+1455|1974|4|747|Day for Night|Severine|f
+1456|1974|4|748|Blazing Saddles|Lili Von Shtupp|f
+1457|1974|4|698|Alice Doesn't Live Here Anymore|Flo|f
+1458|1974|4|543|The Godfather Part II|Connie Corleone|f
+1459|1973|4|749|The Exorcist|Regan MacNeil|f
+1460|1973|4|750|American Graffiti|Debbie|f
+1461|1973|4|748|Paper Moon|Trixie Delight|f
+1462|1973|4|751|Paper Moon|Addie Loggins|t
+1463|1973|4|752|Summer Wishes, Winter Dreams|Mrs. Pritchett|f
+1464|1972|4|753|The Heartbreak Kid|Lila|f
+1465|1972|4|754|Butterflies Are Free|Mrs. Baker|t
+1466|1972|4|526|Pete 'n' Tillie|Gertrude|f
+1467|1972|4|755|Fat City|Oma|f
+1468|1972|4|603|The Poseidon Adventure|Belle Rosen|f
+1469|1971|4|545|Carnal Knowledge|Bobbie|f
+1470|1971|4|481|The Last Picture Show|Lois Farrow|f
+1471|1971|4|756|Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?|Allison|f
+1472|1971|4|757|The Last Picture Show|Ruth Popper|t
+1473|1971|4|758|The Go-Between|Mrs. Maudsley|f
+1474|1970|4|759|Five Easy Pieces|Rayette Dipesto|f
+1475|1970|4|741|The Landlord|Mrs. Enders|f
+1476|1970|4|638|Airport|Ada Quonsett|t
+1477|1970|4|760|M*A*S*H|Major Margaret 'Hot Lips' Houlihan|f
+1478|1970|4|727|Airport|Inez Guerrero|f
+1479|1969|4|761|Last Summer|Rhoda|f
+1480|1969|4|736|Bob & Carol & Ted & Alice|Alice Henderson|f
+1481|1969|4|536|Cactus Flower|Toni Simmons|t
+1482|1969|4|744|Midnight Cowboy|Cass|f
+1483|1969|4|762|They Shoot Horses, Don't They?|Alice|f
+1484|1968|4|763|Faces|Maria Forst|f
+1485|1968|4|764|Rosemary's Baby|Minnie Castevet|t
+1486|1968|4|765|The Heart Is a Lonely Hunter|Mick Kelly|f
+1487|1968|4|766|Funny Girl|Rose Brice|f
+1488|1968|4|767|Rachel, Rachel|Calla Mackie|f
+1489|1967|4|768|Thoroughly Modern Millie|Muzzy Van Hossmere|f
+1490|1967|4|769|Barefoot in the Park|Mrs. Ethel Banks|f
+1491|1967|4|767|Bonnie and Clyde|Blanche Barrow|t
+1492|1967|4|770|Guess Who's Coming to Dinner|Mrs. Prentice|f
+1493|1967|4|771|The Graduate|Elaine Robinson|f
+1494|1966|4|772|Who's Afraid of Virginia Woolf?|Honey|t
+1495|1966|4|623|A Man for All Seasons|Alice More|f
+1496|1966|4|773|Hawaii|Malama|f
+1497|1966|4|774|Alfie|Lily|f
+1498|1966|4|526|You're a Big Boy Now|Margary Chanticleer|f
+1499|1965|4|764|Inside Daisy Clover|The Dealer|f
+1500|1965|4|775|Othello|Emilia|f
+1501|1965|4|554|Othello|Desdemona|f
+1502|1965|4|603|A Patch of Blue|Rose-Ann D'Arcey|t
+1503|1965|4|776|The Sound of Music|Mother Abbess|f
+1504|1964|4|777|My Fair Lady|Mrs. Higgins|f
+1505|1964|4|563|The Chalk Garden|Mrs. St. Maugham|f
+1506|1964|4|778|The Night of the Iguana|Judith Fellowes|f
+1507|1964|4|779|Zorba the Greek|Madame Hortense|t
+1508|1964|4|780|Hush...Hush, Sweet Charlotte|Velma Cruther|f
+1509|1963|4|781|Tom Jones|Molly|f
+1510|1963|4|563|Tom Jones|Miss Western|f
+1511|1963|4|775|Tom Jones|Mrs. Waters|f
+1512|1963|4|782|The V.I.P.s|Duchess of Brighton|t
+1513|1963|4|783|Lilies of the Field|Mother Maria|f
+1514|1962|4|784|To Kill a Mockingbird|Scout Finch|f
+1515|1962|4|785|The Miracle Worker|Helen Keller|t
+1516|1962|4|786|Sweet Bird of Youth|Heavenly Finley|f
+1517|1962|4|787|The Manchurian Candidate|Raymond's Mother|f
+1518|1962|4|788|Birdman of Alcatraz|Elizabeth Stroud|f
+1519|1961|4|622|The Children's Hour|Mrs. Amelia Tilford|f
+1520|1961|4|594|Judgment at Nuremberg|Irene Hoffman|f
+1521|1961|4|789|The Roman Spring of Mrs. Stone|Countess Magda Terribili-Gonzales|f
+1522|1961|4|790|Summer and Smoke|Mrs. Winemiller|f
+1523|1961|4|791|West Side Story|Anita|t
+1524|1960|4|792|The Sundowners|Mrs. Firth|f
+1525|1960|4|793|Elmer Gantry|Lulu Bains|t
+1526|1960|4|786|The Dark at the Top of the Stairs|Reenie|f
+1527|1960|4|794|Psycho|Marion Crane|f
+1528|1960|4|795|Sons and Lovers|Clara Dawes|f
+1529|1959|4|796|Room at the Top|Elspeth|f
+1530|1959|4|797|Imitation of Life|Sarah Jane (age 18)|f
+1531|1959|4|798|Imitation of Life|Annie Johnson|f
+1532|1959|4|788|Pillow Talk|Alma|f
+1533|1959|4|603|The Diary of Anne Frank|Mrs. Van Daan|t
+1534|1958|4|799|Auntie Mame|Agnes Gooch|f
+1535|1958|4|623|Separate Tables|Pat Cooper|t
+1536|1958|4|800|Some Came Running|Gwen French|f
+1537|1958|4|727|Lonelyhearts|Fay Doyle|f
+1538|1958|4|801|The Defiant Ones|The Woman|f
+1539|1957|4|802|The Bachelor Party|The Existentialist|f
+1540|1957|4|803|Witness for the Prosecution|Miss Plimsoll|f
+1541|1957|4|804|Peyton Place|Selena Cross|f
+1542|1957|4|805|Sayonara|Katsumi|t
+1543|1957|4|806|Peyton Place|Allison MacKenzie|f
+1544|1956|4|807|Baby Doll|Aunt Rose Comfort|f
+1545|1956|4|754|The Bad Seed|Mrs. Daigle|f
+1546|1956|4|808|Giant|Luz Benedict|f
+1547|1956|4|809|The Bad Seed|Rhoda Penmark|f
+1548|1956|4|810|Written on the Wind|Marylee Hadley|t
+1549|1955|4|811|Marty|Clara Snyder|f
+1550|1955|4|812|Pete Kelly's Blues|Rose Hopkins|f
+1551|1955|4|813|The Rose Tattoo|Rosa Della Rose|f
+1552|1955|4|814|East of Eden|Kate|t
+1553|1955|4|577|Rebel without a Cause|Judy|f
+1554|1954|4|815|Executive Suite|Erica Martin|f
+1555|1954|4|816|Broken Lance|Senora Devereaux|f
+1556|1954|4|817|On the Waterfront|Edie Doyle|t
+1557|1954|4|818|The High and the Mighty|Sally McKee|f
+1558|1954|4|819|The High and the Mighty|Mary Holst|f
+1559|1953|4|595|Mogambo|Linda Nordley|f
+1560|1953|4|526|Hondo|Angie Lowe|f
+1561|1953|4|820|Torch Song|Mrs. Stewart|f
+1562|1953|4|821|From Here to Eternity|Lorene/Alma|t
+1563|1953|4|788|Pickup on South Street|Moe|f
+1564|1952|4|822|The Bad and the Beautiful|Rosemary Bartlow|t
+1565|1952|4|823|Singin' in the Rain|Lina Lamont|f
+1566|1952|4|824|Moulin Rouge|Marie Charlet|f
+1567|1952|4|825|Come Back, Little Sheba|Marie Loring|f
+1568|1952|4|788|With a Song in My Heart|Clancy|f
+1569|1951|4|826|The Blue Veil|Annie Rawlins|f
+1570|1951|4|807|Death of a Salesman|Linda Loman|f
+1571|1951|4|741|Detective Story|A Shoplifter|f
+1572|1951|4|827|A Streetcar Named Desire|Stella Kowalski|t
+1573|1951|4|788|The Mating Season|Ellen McNulty|f
+1574|1950|4|828|Caged|Evelyn Harper|f
+1575|1950|4|829|All about Eve|Karen Richards|f
+1576|1950|4|830|Harvey|Veta Louise Simmons|t
+1577|1950|4|831|Sunset Blvd.|Betty Schaefer|f
+1578|1950|4|788|All about Eve|Birdie|f
+1579|1949|4|832|Pinky|Miss Em|f
+1580|1949|4|829|Come to the Stable|Sister Scholastica|f
+1581|1949|4|803|Come to the Stable|Miss Potts|f
+1582|1949|4|808|All the King's Men|Sadie Burke|t
+1583|1949|4|833|Pinky|Granny|f
+1584|1948|4|834|I Remember Mama|Katrin|f
+1585|1948|4|835|I Remember Mama|Aunt Trina|f
+1586|1948|4|780|Johnny Belinda|Aggie McDonald|f
+1587|1948|4|561|Hamlet|Ophelia|f
+1588|1948|4|819|Key Largo|Gaye|t
+1589|1947|4|832|The Paradine Case|Lady Sophie Horfield|f
+1590|1947|4|822|Crossfire|Ginny Tremaine|f
+1591|1947|4|829|Gentleman's Agreement|Anne|t
+1592|1947|4|836|The Egg and I|Ma Kettle|f
+1593|1947|4|837|Gentleman's Agreement|Mrs. Green|f
+1594|1946|4|832|The Spiral Staircase|Mrs. Warren|f
+1595|1946|4|604|The Razor's Edge|Sophie MacDonald|t
+1596|1946|4|838|Duel in the Sun|Belle McCanles|f
+1597|1946|4|839|Saratoga Trunk|Angelique Buiton|f
+1598|1946|4|840|Anna and the King of Siam|Lady Thiang|f
+1599|1945|4|841|Mildred Pierce|Ida|f
+1600|1945|4|842|Mildred Pierce|Veda Pierce|f
+1601|1945|4|787|The Picture of Dorian Gray|Sibyl Vane|f
+1602|1945|4|843|The Corn Is Green|Bessie Watty|f
+1603|1945|4|837|National Velvet|Mrs. Brown|t
+1604|1944|4|832|None but the Lonely Heart|Ma Mott|t
+1605|1944|4|591|Since You Went Away|Jane Hilton|f
+1606|1944|4|787|Gaslight|Nancy Oliver|f
+1607|1944|4|844|Dragon Seed|Ling's Wife|f
+1608|1944|4|780|Mrs. Parkington|Aspacia Conti|f
+1609|1943|4|777|The Song of Bernadette|Sister Vauzous|f
+1610|1943|4|845|So Proudly We Hail!|Lieutenant Joan O'Doul|f
+1611|1943|4|846|For Whom the Bell Tolls|Pilar|t
+1612|1943|4|837|The Song of Bernadette|Louise Soubirous|f
+1613|1943|4|847|Watch on the Rhine|Fanny Farrelly|f
+1614|1942|4|777|Now, Voyager|Mrs. Vale|f
+1615|1942|4|780|The Magnificent Ambersons|Fanny Minafer|f
+1616|1942|4|848|Random Harvest|Kitty|f
+1617|1942|4|849|Mrs. Miniver|Lady Beldon|f
+1618|1942|4|618|Mrs. Miniver|Carol Beldon|t
+1619|1941|4|850|How Green Was My Valley|Mrs. Morgan|f
+1620|1941|4|851|The Great Lie|Sandra Kovak|t
+1621|1941|4|852|The Little Foxes|Birdie Hubbard|f
+1622|1941|4|618|The Little Foxes|Alexandra Giddens|f
+1623|1941|4|853|Sergeant York|Mother York|f
+1624|1940|4|854|Rebecca|Mrs. Danvers|f
+1625|1940|4|855|The Grapes of Wrath|Ma Joad|t
+1626|1940|4|856|The Philadelphia Story|Liz Imbrie|f
+1627|1940|4|857|All This, and Heaven Too|Duchesse de Praslin|f
+1628|1940|4|820|Primrose Path|Mamie Adams|f
+1629|1939|4|608|Gone with the Wind|Melanie Hamilton|f
+1630|1939|4|858|Wuthering Heights|Isabella|f
+1631|1939|4|859|Gone with the Wind|Mammy|t
+1632|1939|4|860|Drums along the Mohawk|Sarah McKlennar|f
+1633|1939|4|861|Love Affair|Grandmother, Mme. Marnay|f
+1634|1938|4|622|Jezebel|Aunt Belle Massey|t
+1635|1938|4|862|Of Human Hearts|Mary Wilkins|f
+1636|1938|4|863|Merrily We Live|Mrs. Emily Kilbourne|f
+1637|1938|4|864|You Can't Take It with You|Penny Sycamore|f
+1638|1938|4|865|The Great Waltz|Carla Donner|f
+1639|1937|4|866|In Old Chicago|Molly O'Leary|t
+1640|1937|4|867|Stage Door|Kaye Hamilton|f
+1641|1937|4|868|Stella Dallas|Laurel Dallas|f
+1642|1937|4|819|Dead End|Francie|f
+1643|1937|4|849|Night Must Fall|Mrs. Bramson|f
+1644|1936|4|862|The Gorgeous Hussy|Rachel Jackson|f
+1645|1936|4|866|My Man Godfrey|Angelica Bullock|f
+1646|1936|4|869|These Three|Mary Tilford|f
+1647|1936|4|861|Dodsworth|Baroness von Obersdorf|f
+1648|1936|4|840|Anthony Adverse|Faith Paleologue|t

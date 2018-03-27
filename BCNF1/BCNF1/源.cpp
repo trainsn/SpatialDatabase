@@ -1,0 +1,330 @@
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <stdio.h>
+using namespace std;
+
+string R;//关系模式
+vector <pair<string, string>> F;//函数依赖集
+vector<string> subset;//关系模式R的所有子集
+char *temp;//求所有子集的辅助变量
+vector<string> candidate_key;//所有的候选键
+vector<string> super_key;//所有的超键
+
+bool Includes(string s1,string s2)
+{
+    sort(s1.begin(),s1.end());
+    sort(s2.begin(),s2.end());
+    return includes(s1.begin(),s1.end(),s2.begin(),s2.end());
+}
+string getArrClosure(const string &X, const vector<pair<string, string>> &F)
+// 返回属性集X的闭包
+{
+    string ans(X);
+    string temp;
+    bool *vis = new bool[F.size()];
+    fill(vis, vis + F.size(), 0);
+    while (temp != ans)
+    {
+        temp = ans;
+        for (int i = 0; i != F.size();i++)
+        {
+            if (!vis[i]&&Includes(ans,F[i].first))
+            {
+                vis[i]=1;
+                ans+=F[i].second;
+            }
+        }
+    }
+
+    delete[]vis;
+    vis=NULL;
+
+    //delete the repeated
+    sort(ans.begin(),ans.end());
+    ans.erase(unique(ans.begin(),ans.end()),ans.end());
+    return ans;
+
+}
+void allSubset(int pos,int cnt,int num,const string &R)
+//getAllSubset的辅助函数
+{
+    if(num<=0)
+    {
+        temp[cnt]='\0';
+        subset.push_back(temp);
+        return;
+    }
+    temp[cnt]=R[pos];
+    allSubset(pos+1,cnt+1,num-1,R);
+    allSubset(pos+1,cnt,num-1,R);
+}
+void getAllSubset(const string &R)
+//求关系模式R的所有子集，保存于subset中
+{
+    subset.clear();
+    temp=NULL;
+    temp=new char[R.size()];
+    allSubset(0,0,R.length(),R);
+    temp=NULL;
+}
+
+bool isCandidateKey(const string &s)
+{
+    for (int i=0;i!=candidate_key.size();i++)
+    {
+        if (Includes(s,candidate_key[i]))
+            return false;
+    }
+    return true;
+}
+
+bool cmpLength(const string &s1,const string &s2)
+//对subset以字符串长度进行排序
+{
+    return s1.length()<s2.length();
+}
+void getCandidateKey(const string &R,const vector<pair<string,string>> &F)//求关系模式R基于F的所有候选键
+{
+    getAllSubset(R);
+    sort(subset.begin(),subset.end(),cmpLength);
+    candidate_key.clear();
+    super_key.clear();
+    for (int i=0;i!=subset.size();i++)
+    {
+        if (Includes(getArrClosure(subset[i],F),R))
+        {
+            super_key.push_back(subset[i]);
+            if (isCandidateKey(subset[i]))
+                candidate_key.push_back(subset[i]);
+        }
+    }
+}
+
+//返回F的正则覆盖
+vector<pair<string, string>> getMinRely(const vector<pair<string, string>> &F)
+{
+    vector<pair<string, string>> G(F);
+    // 使G中每一个FD的右边均为单属性
+    for (int i = 0; i != G.size(); i++)
+    {
+        if (G[i].second.length() > 1)
+        {
+            string f = G[i].first, s = G[i].second, temp;
+            G[i].second = s[0];
+            for (int j = 1; j < s.length(); j++)
+            {
+                temp=s[j];
+                G.push_back(make_pair(f, temp));
+            }
+
+        }
+    }
+
+    int MAXN = 0;
+    for (int i = 0; i != G.size(); i++)
+        if (G[i].first.length()>MAXN)
+            MAXN = G[i].first.length();
+    bool *del = new bool[MAXN];
+
+    //在G的每个FD中消除左边冗余的属性
+    for (int i = 0; i != G.size();i++)
+    {
+        if (G[i].first.length() > 1)
+        {
+            fill(del, del + G[i].first.length(), 0);
+            for (int j = 0; j != G[i].first.length(); j++)
+            {
+                string temp;
+                del[j] = 1;
+                for (int k = 0; k != G[i].first.length(); k++)
+                    if (!del[k])
+                        temp += G[i].first[k];
+                if (!Includes(getArrClosure(temp, G), G[i].second))
+                    del[j]=0;                
+            }
+            string temp;
+            for (int j=0;j!=G[i].first.length();j++)
+            {
+                if (!del[j])
+                    temp+=G[i].first[j];
+            }
+            G[i].first = temp;
+        }
+    }
+    delete[]del;
+    del=NULL;
+
+    //delete the repeated
+    sort(G.begin(),G.end());
+    G.erase(unique(G.begin(),G.end()),G.end());
+
+    //在G中消除冗余的FD
+    vector<pair <string,string>> ans;
+    for (int i=0;i!=G.size();i++)
+    {
+        vector<pair <string,string>> temp(G);
+        temp.erase(temp.begin()+i);
+        if (!Includes(getArrClosure(G[i].first,temp), G[i].second))
+            ans.push_back(G[i]);
+    }
+    return ans;
+}
+
+//返回F的闭包
+vector<pair<string, string>> getFunClosure(const string &R,const vector < pair<string, string>> &F)
+{
+    string temp;
+    vector <pair<string, string>> G;
+    getAllSubset(R);
+    for (int i = 0; i < subset.size(); i++)
+    {
+        temp = getArrClosure(subset[i], F);
+        for (int j = 0; j < temp.length(); j++)
+        {
+            string s;
+            s = temp[j];
+            if (!Includes(subset[i], s))
+                G.push_back(make_pair(subset[i], s));
+        }
+    }
+    return G;
+}
+
+//重载函数，返回闭包
+vector<pair<string, string>> getFunClosure(const vector < pair<string, string>> &F)
+{
+    string temp;
+    vector<pair<string, string>> G;
+    for (int i = 0; i < F.size(); i++)
+    {
+        temp = getArrClosure(F[i].first, F);
+        for (int j = 0; j < temp.length(); j++)
+        {
+            string s;
+            s = temp[j];
+            if (!Includes(F[i].first, s))
+                G.push_back(make_pair(F[i].first, s));
+        }
+    }
+    return G;
+}
+
+string difference(string a,string b)
+//求a-b
+{
+    string c;
+    c.resize(a.size());
+    sort(a.begin(),a.end());
+    a.erase(unique(a.begin(),a.end()),a.end());
+    sort(b.begin(),b.end());
+    string::iterator it = set_difference(a.begin(),a.end(),b.begin(),b.end(),c.begin());
+    c.erase(it,c.end());
+    return c;
+}
+vector<string> splitToBCNF(const string &R, const vector<pair<string, string>> &F)
+{
+    vector<string> ans;
+    vector<string> temp;
+    ans.push_back(R);
+    vector<pair<string,string>> FF=getFunClosure(getMinRely(F));//保存F的闭包到FF
+
+    int flag=1;
+    while (flag)
+    {
+        flag=0;
+        temp.resize(ans.size());
+        temp.assign(ans.begin(),ans.end());
+
+        for (int i=0;i!=ans.size();i++)
+        {
+            vector<pair<string,string>> MC;
+            for (int j=0;j!=FF.size();j++)
+            {
+                if (Includes(ans[i],FF[j].first) && Includes(ans[i],FF[j].second))
+                    MC.push_back(FF[j]); 
+            }
+            sort(MC.begin(),MC.end());
+            MC.erase(unique(MC.begin(),MC.end()),MC.end());
+
+            getCandidateKey(ans[i],MC);
+            for (int j=0;j!=MC.size();j++)
+            {
+                int is_super_key=0;
+                for (int k=0;k!=super_key.size();k++)
+                    if (Includes(MC[j].first,super_key[k]))
+                    {
+                        is_super_key=1;
+                        break;
+                    }
+                //若ans[i]中存在一个非平凡的x->y,有x不包含超键，将ans[i]分解为xy和ans[i]-y
+                if (!is_super_key)
+                {
+                    ans.push_back(difference(ans[i],MC[j].second));
+                    ans[i]=MC[j].first+MC[j].second;
+                    flag=1;
+                    break;
+                }
+            }
+            if (flag)
+                break;       
+        }
+    }
+
+    for (int i = 0; i < ans.size(); i++)
+        for (int j = i + 1; j < ans.size(); j++)
+            if (Includes(ans[i], ans[j]))
+                ans.erase(ans.begin()+j);
+    return ans;
+}
+
+void inputF()
+{
+    int n;
+    string temp;
+    cin >> n;
+    getline(cin,temp);
+    for (int i = 0; i < n; i++)
+    {
+        pair<string, string> ps;
+        getline(cin,temp);
+        int j;
+        for (j = 0; j != temp.length();j++)
+            if (temp[j] != '-' && temp[j]!=' ')
+            {
+            if (temp[j] == '>' && temp[j + 1] == ' ')
+            {
+                j++;
+                break;
+            }               
+            ps.first += temp[j];
+            }       
+        ps.second.assign(temp, j + 1, string::npos);
+        F.push_back(ps);
+    }
+}
+
+int main(void)
+{
+    FILE* stream;
+    freopen_s(&stream, "1.in", "r", stdin);
+    freopen_s(&stream, "1.out", "w", stdout);
+    R = "";
+    F.clear();
+
+    int n;
+    char ch='A';
+    cin >> n;
+    for (int i=0;i<n;i++)
+    {
+        R += ch;
+        ch++;
+    }
+    inputF();
+
+    vector<string> ans = splitToBCNF(R, F);
+    for (int i = 0; i != ans.size(); i++)
+        cout << ans[i] << endl;
+    return 0;
+}
